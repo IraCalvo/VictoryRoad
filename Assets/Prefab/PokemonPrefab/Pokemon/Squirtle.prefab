@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6798245216067825182
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1179646682861136445, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1179646682861136445, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1179646682861136445, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1179646682861136445, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1179646682861136445, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1179646682861136445, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1179646682861136445, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1179646682861136445, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1179646682861136445, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1179646682861136445, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1179646682861136445, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1423594522732479495, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 16e7e98226eede84ebb605f5f010458d, type: 2}
+    - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: pokemonData
+      value: 
+      objectReference: {fileID: 11400000, guid: 2043d04c8626a174b83b3ef4852a3229, type: 2}
+    - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: pokemonLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: pokemonWalkingAnimation
+      value: 
+      objectReference: {fileID: 5591684771010963993}
+    - target: {fileID: 5457649435922156151, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_Size.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5457649435922156151, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_Size.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5457649435922156151, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 879790334, guid: c6df2461ef12d854586a958697648e21, type: 3}
+    - target: {fileID: 5457649435922156151, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721544495372267280, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: m_Name
+      value: Squirtle
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+--- !u!95 &5591684771010963993 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1423594522732479495, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+  m_PrefabInstance: {fileID: 6798245216067825182}
+  m_PrefabAsset: {fileID: 0}
