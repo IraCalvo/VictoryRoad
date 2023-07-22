@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -38798,8 +38798,8 @@ TextureImporter:
       PokemonTileset5-1_161: 583335047
       PokemonTileset5-1_804: -1060199813
       PokemonTileset5-1_757: 1570727219
-      PokemonTileset5-1_396: 1425147715
       PokemonTileset5-1_1353: 162752186
+      PokemonTileset5-1_396: 1425147715
       PokemonTileset5-1_1502: -532012970
       PokemonTileset5-1_324: 681953542
       PokemonTileset5-1_1412: -294602980
@@ -38886,13 +38886,13 @@ TextureImporter:
       PokemonTileset5-1_37: 1411530424
       PokemonTileset5-1_1756: -1608487679
       PokemonTileset5-1_742: -240313980
-      PokemonTileset5-1_694: 1321847198
       PokemonTileset5-1_1021: -2126476392
-      PokemonTileset5-1_1285: -1335117860
       PokemonTileset5-1_1201: -1863312169
+      PokemonTileset5-1_1285: -1335117860
+      PokemonTileset5-1_1666: 2119135186
       PokemonTileset5-1_1242: 1214526094
       PokemonTileset5-1_1651: -1214825995
-      PokemonTileset5-1_1666: 2119135186
+      PokemonTileset5-1_694: 1321847198
       PokemonTileset5-1_340: -748821610
       PokemonTileset5-1_528: -940096761
       PokemonTileset5-1_934: 282077606
@@ -38907,11 +38907,11 @@ TextureImporter:
       PokemonTileset5-1_763: -1470004257
       PokemonTileset5-1_837: -1128507175
       PokemonTileset5-1_116: 390270565
-      PokemonTileset5-1_1381: -902237799
       PokemonTileset5-1_1422: 860628419
-      PokemonTileset5-1_1018: -1590556937
       PokemonTileset5-1_1554: -617035864
+      PokemonTileset5-1_1018: -1590556937
       PokemonTileset5-1_1760: -1988715247
+      PokemonTileset5-1_1381: -902237799
       PokemonTileset5-1_1732: 349240480
       PokemonTileset5-1_166: -1900156403
       PokemonTileset5-1_1809: -599868837
@@ -39036,20 +39036,20 @@ TextureImporter:
       PokemonTileset5-1_1776: 759491279
       PokemonTileset5-1_1391: 1646494628
       PokemonTileset5-1_24: -674743878
-      PokemonTileset5-1_94: 1140268762
       PokemonTileset5-1_1038: -1427286287
+      PokemonTileset5-1_1516: 440726533
       PokemonTileset5-1_745: -430166868
       PokemonTileset5-1_1217: -254543615
       PokemonTileset5-1_1416: 1482704353
       PokemonTileset5-1_1807: -1638799966
-      PokemonTileset5-1_1516: 440726533
       PokemonTileset5-1_611: 1640299175
       PokemonTileset5-1_1719: -1879163767
       PokemonTileset5-1_1203: -664675486
       PokemonTileset5-1_34: 1588558566
-      PokemonTileset5-1_793: 32000769
       PokemonTileset5-1_794: -572530447
       PokemonTileset5-1_834: -1015220767
+      PokemonTileset5-1_793: 32000769
+      PokemonTileset5-1_94: 1140268762
       PokemonTileset5-1_1036: -1104794895
       PokemonTileset5-1_1731: -1053449934
       PokemonTileset5-1_1244: -20349600
@@ -39103,11 +39103,10 @@ TextureImporter:
       PokemonTileset5-1_54: 133602577
       PokemonTileset5-1_683: -750354654
       PokemonTileset5-1_230: -1170829220
-      PokemonTileset5-1_341: -1438231049
       PokemonTileset5-1_966: 1368356707
+      PokemonTileset5-1_982: -133032263
       PokemonTileset5-1_191: 1633196748
       PokemonTileset5-1_1126: -1277385440
-      PokemonTileset5-1_982: -133032263
       PokemonTileset5-1_1475: 778917165
       PokemonTileset5-1_257: 527989381
       PokemonTileset5-1_1271: 523083552
@@ -39115,6 +39114,7 @@ TextureImporter:
       PokemonTileset5-1_939: 236246463
       PokemonTileset5-1_1653: -1838062708
       PokemonTileset5-1_345: 2120601707
+      PokemonTileset5-1_341: -1438231049
       PokemonTileset5-1_1821: 537227389
       PokemonTileset5-1_262: -306232566
       PokemonTileset5-1_389: -456597167
@@ -39253,8 +39253,8 @@ TextureImporter:
       PokemonTileset5-1_917: 1095991588
       PokemonTileset5-1_1561: -441420405
       PokemonTileset5-1_1272: 1327281641
-      PokemonTileset5-1_1030: -1009762682
       PokemonTileset5-1_1324: 1863336056
+      PokemonTileset5-1_1030: -1009762682
       PokemonTileset5-1_1620: -2135548257
       PokemonTileset5-1_798: -2124757896
       PokemonTileset5-1_944: -1405638880
@@ -39303,9 +39303,9 @@ TextureImporter:
       PokemonTileset5-1_561: 834995062
       PokemonTileset5-1_628: 397953826
       PokemonTileset5-1_383: 899341353
-      PokemonTileset5-1_1655: -696044128
       PokemonTileset5-1_1717: -192404706
       PokemonTileset5-1_1835: 1663566728
+      PokemonTileset5-1_1655: -696044128
       PokemonTileset5-1_924: -742482203
       PokemonTileset5-1_213: 318129247
       PokemonTileset5-1_76: -592882629
@@ -39317,11 +39317,11 @@ TextureImporter:
       PokemonTileset5-1_1106: -1136474963
       PokemonTileset5-1_565: -2131194412
       PokemonTileset5-1_309: 1856839205
-      PokemonTileset5-1_1104: -1136465689
       PokemonTileset5-1_1631: -1919505842
-      PokemonTileset5-1_1833: 1396794352
+      PokemonTileset5-1_1104: -1136465689
       PokemonTileset5-1_260: 793895153
       PokemonTileset5-1_635: 2128129872
+      PokemonTileset5-1_1833: 1396794352
       PokemonTileset5-1_1296: -920739622
       PokemonTileset5-1_387: 561859881
       PokemonTileset5-1_886: 1646662216
@@ -39353,20 +39353,20 @@ TextureImporter:
       PokemonTileset5-1_1806: 1187193038
       PokemonTileset5-1_200: -1296444182
       PokemonTileset5-1_493: -827294462
-      PokemonTileset5-1_788: 894819498
       PokemonTileset5-1_543: 393655586
+      PokemonTileset5-1_788: 894819498
       PokemonTileset5-1_641: 2107975451
       PokemonTileset5-1_1712: -771620361
       PokemonTileset5-1_48: 1862658553
-      PokemonTileset5-1_946: -1171238433
+      PokemonTileset5-1_1074: -1133867533
       PokemonTileset5-1_684: 1511178272
       PokemonTileset5-1_1303: 595241339
-      PokemonTileset5-1_1074: -1133867533
       PokemonTileset5-1_549: 2046841448
       PokemonTileset5-1_352: -1985009409
       PokemonTileset5-1_1388: 1414866600
       PokemonTileset5-1_972: -1832636599
       PokemonTileset5-1_585: 1365365999
+      PokemonTileset5-1_946: -1171238433
       PokemonTileset5-1_775: 942947355
       PokemonTileset5-1_526: 1466620561
       PokemonTileset5-1_145: 13842625
@@ -39380,24 +39380,24 @@ TextureImporter:
       PokemonTileset5-1_824: 1309962486
       PokemonTileset5-1_123: -632730655
       PokemonTileset5-1_770: 95651260
-      PokemonTileset5-1_1042: -1109834161
+      PokemonTileset5-1_1116: -1467502590
       PokemonTileset5-1_895: -428339106
       PokemonTileset5-1_1141: -804493015
       PokemonTileset5-1_601: 1821743589
       PokemonTileset5-1_569: 230359390
       PokemonTileset5-1_18: 434383616
-      PokemonTileset5-1_294: -1078057684
       PokemonTileset5-1_588: -673703861
-      PokemonTileset5-1_1153: 2099411340
       PokemonTileset5-1_950: 321950900
+      PokemonTileset5-1_294: -1078057684
+      PokemonTileset5-1_1153: 2099411340
+      PokemonTileset5-1_1042: -1109834161
       PokemonTileset5-1_291: -1477252598
-      PokemonTileset5-1_1116: -1467502590
       PokemonTileset5-1_398: -1981182592
       PokemonTileset5-1_1351: 836777189
       PokemonTileset5-1_12: 2090580075
-      PokemonTileset5-1_143: -1603340179
-      PokemonTileset5-1_1472: 1175357646
       PokemonTileset5-1_1480: -1691878425
+      PokemonTileset5-1_1472: 1175357646
+      PokemonTileset5-1_143: -1603340179
       PokemonTileset5-1_655: -1287598132
       PokemonTileset5-1_174: 297205762
       PokemonTileset5-1_50: 1577676037
@@ -39417,11 +39417,11 @@ TextureImporter:
       PokemonTileset5-1_17: 532368523
       PokemonTileset5-1_113: 364681947
       PokemonTileset5-1_801: 857987458
-      PokemonTileset5-1_1307: -1935504732
       PokemonTileset5-1_1840: 1556650863
       PokemonTileset5-1_576: 369163700
       PokemonTileset5-1_1584: -735676940
       PokemonTileset5-1_373: 817805496
+      PokemonTileset5-1_1307: -1935504732
       PokemonTileset5-1_855: 518318024
       PokemonTileset5-1_816: 1550229350
       PokemonTileset5-1_486: -579318452
@@ -39759,16 +39759,16 @@ TextureImporter:
       PokemonTileset5-1_402: -1978584237
       PokemonTileset5-1_1251: 1862142201
       PokemonTileset5-1_160: -1344265665
-      PokemonTileset5-1_700: -744497456
+      PokemonTileset5-1_1802: 41065401
       PokemonTileset5-1_87: -1350046145
       PokemonTileset5-1_714: -1400816971
-      PokemonTileset5-1_1170: -1582169326
       PokemonTileset5-1_1204: -1511847774
-      PokemonTileset5-1_1778: 415415713
-      PokemonTileset5-1_1802: 41065401
+      PokemonTileset5-1_1170: -1582169326
       PokemonTileset5-1_1688: 1672811347
+      PokemonTileset5-1_700: -744497456
       PokemonTileset5-1_873: 1254065863
       PokemonTileset5-1_1273: -1166751590
+      PokemonTileset5-1_1778: 415415713
       PokemonTileset5-1_1439: -346175717
       PokemonTileset5-1_1722: 384750216
       PokemonTileset5-1_421: 488010925
@@ -39796,9 +39796,9 @@ TextureImporter:
       PokemonTileset5-1_1172: 1258260217
       PokemonTileset5-1_1594: 177167312
       PokemonTileset5-1_1385: 625579315
+      PokemonTileset5-1_1748: -1827179601
       PokemonTileset5-1_126: 1309674020
       PokemonTileset5-1_1763: -816714670
-      PokemonTileset5-1_1748: -1827179601
       PokemonTileset5-1_176: 1212815639
       PokemonTileset5-1_1805: 1889188208
       PokemonTileset5-1_20: 722895529
@@ -39849,8 +39849,8 @@ TextureImporter:
       PokemonTileset5-1_987: 1768661361
       PokemonTileset5-1_1092: -133964875
       PokemonTileset5-1_16: -1435364533
-      PokemonTileset5-1_625: 1198096109
       PokemonTileset5-1_1519: -1567552480
+      PokemonTileset5-1_625: 1198096109
       PokemonTileset5-1_1411: -362215993
       PokemonTileset5-1_1065: 1250919523
       PokemonTileset5-1_1593: -1327349824
@@ -39937,10 +39937,10 @@ TextureImporter:
       PokemonTileset5-1_690: 598427210
       PokemonTileset5-1_1492: -625494678
       PokemonTileset5-1_719: -276924997
+      PokemonTileset5-1_1603: -183496744
       PokemonTileset5-1_1334: 73743056
       PokemonTileset5-1_1695: -116820335
       PokemonTileset5-1_1437: -1774094218
-      PokemonTileset5-1_1603: -183496744
       PokemonTileset5-1_1665: -1005790550
       PokemonTileset5-1_618: -863034631
       PokemonTileset5-1_481: 266707672
@@ -39973,8 +39973,8 @@ TextureImporter:
       PokemonTileset5-1_1232: -1879532385
       PokemonTileset5-1_404: 1723472729
       PokemonTileset5-1_358: 1135356654
-      PokemonTileset5-1_575: -374557930
       PokemonTileset5-1_881: -342674560
+      PokemonTileset5-1_575: -374557930
       PokemonTileset5-1_935: -971887692
       PokemonTileset5-1_1000: -1461396083
       PokemonTileset5-1_1145: 2017992937
@@ -40032,9 +40032,9 @@ TextureImporter:
       PokemonTileset5-1_1604: 1282985591
       PokemonTileset5-1_753: 1282414101
       PokemonTileset5-1_1326: -1898412468
-      PokemonTileset5-1_1513: -918590780
       PokemonTileset5-1_1641: -1555656343
       PokemonTileset5-1_40: 1307007149
+      PokemonTileset5-1_1513: -918590780
       PokemonTileset5-1_725: -742712412
       PokemonTileset5-1_866: 444290573
       PokemonTileset5-1_507: 585987892
@@ -40074,8 +40074,8 @@ TextureImporter:
       PokemonTileset5-1_1598: 355026953
       PokemonTileset5-1_761: -862010768
       PokemonTileset5-1_1136: 521288857
-      PokemonTileset5-1_1386: -1440303278
       PokemonTileset5-1_1633: 1057896597
+      PokemonTileset5-1_1386: -1440303278
       PokemonTileset5-1_1011: 1375023305
       PokemonTileset5-1_547: 933880684
       PokemonTileset5-1_1741: -576734238
@@ -40087,16 +40087,16 @@ TextureImporter:
       PokemonTileset5-1_1637: -1836488945
       PokemonTileset5-1_1137: -2138185014
       PokemonTileset5-1_83: -1330617556
-      PokemonTileset5-1_343: 33090519
       PokemonTileset5-1_903: 1764311486
       PokemonTileset5-1_474: 841299699
       PokemonTileset5-1_1139: -1551729977
       PokemonTileset5-1_295: -2044113720
-      PokemonTileset5-1_1425: 1030833185
+      PokemonTileset5-1_343: 33090519
       PokemonTileset5-1_1319: 631680986
       PokemonTileset5-1_268: -460679396
       PokemonTileset5-1_1306: -2104327990
       PokemonTileset5-1_1654: 503142761
+      PokemonTileset5-1_1425: 1030833185
       PokemonTileset5-1_372: -688356211
       PokemonTileset5-1_940: 2072476647
       PokemonTileset5-1_1205: -220060130
