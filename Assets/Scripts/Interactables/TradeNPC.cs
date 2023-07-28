@@ -39,4 +39,17 @@ public class TradeNPC : MonoBehaviour
         }
         player.playerPokemonTeam = playerPokemonTeamCopy;
     }
+
+
+
+    //public void Intera()
+    //{
+    //    List<string> responses = new List<string>();
+    //    responses.Add("Yes");
+    //    responses.Add("No");
+
+    //    MenuOptionManager.Instance.ResetUIWithList(responses);
+    //    ChoiceBoxOpen();
+    //}
+
 }

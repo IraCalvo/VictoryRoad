@@ -7,16 +7,16 @@ public class Player : MonoBehaviour
 {
     public int playerTeamSize = 6;
     public List<PokemonBase> playerPokemonTeam;
-    public Interactable interactable;
-    public bool isInInteractRange;
+
+    // in run currency, wiped every run
+    public int PokeDollar;
+    // perma out of run currency
+    public int PokeDiamond;
+    public InventoryManager inventoryManager;
 
     private void Start()
     {
         DontDestroyOnLoad(gameObject);
-    }
-
-    void OnInteract(InputValue value)
-    {
-        interactable.Interact();
+        inventoryManager = GetComponent<InventoryManager>();
     }
 }

@@ -1,0 +1,4358 @@
+fileFormatVersion: 2
+guid: e8053bd3fa95e364dbf636e76d4c7ffc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 31
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1052
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c8f65f2198cee4bba2b578c0078375
+      internalID: -1243604087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1052
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376609f66deb41643bf6a7fd37283956
+      internalID: -1189637675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1052
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d366631f87157ba47a01dfd56e1fbf9c
+      internalID: -1090403804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1052
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cd00a5e4b647a47b2460c82b0da5df
+      internalID: -1776718742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1052
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa46da063a61cb140ae12268674ed3c3
+      internalID: -1298010986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be7bc053c28a5c4b851792ce592aa6e
+      internalID: 197003159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1020
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e69ccccb175f524e8b66e38aeafc345
+      internalID: 555011309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1020
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbbf8516733c1745b4bd71ee5ac1447
+      internalID: -534422792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1020
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39fc3a5c5a33ee49a22458d621a97bb
+      internalID: -754898219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1020
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed7c464dabefa948a426ce89144a2eb
+      internalID: 1104859039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1020
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76930df0b57803e4f91c79f3b1f5024e
+      internalID: -1571345048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1020
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3a374a8abf1d445b23025be77e2380
+      internalID: -144991128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 988
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2ff87fd03ff6f44a0607524ac440c7
+      internalID: 1775502599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 988
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3243a6c5c8bed4096381f352821cf4
+      internalID: 1962487087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 988
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ffcacd9e5217d4899f72b31dd5a138
+      internalID: -1475711882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 988
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4067e7de0858c44883eef1e045fa22
+      internalID: 403913058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 956
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa088a2041f8bc45aa2da13e20fde9f
+      internalID: -1130372828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 956
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79b74338d7b3544a89d7d7bc01b8cfd
+      internalID: -640889615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 956
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cbb6c49c6a3b347b8667d2d7cedf3e
+      internalID: -1616589791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 956
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457c39f484d66c7489b49b0dcc72a488
+      internalID: -757572360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 924
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd3d8bc5d72f1d49ac126aa37669e0a
+      internalID: 487987937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 924
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d598948d3ac74ff4a902f880b60f8051
+      internalID: 1490548419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 924
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f0a784f99cee54597e141c6c9874d4
+      internalID: 1396230100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 924
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9df181a0967ab47b4c1c8004ad1cb7
+      internalID: 1249434143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 924
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ace37aeabb08064ebe058057813169d
+      internalID: -2009950961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 892
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb4ceb27de11f44bac1480ee173b574
+      internalID: 635004664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 892
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144fad2846f08094796d69af32737dda
+      internalID: -914660423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 892
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd867604c2261f4aaff9080cf8ee008
+      internalID: -2062497954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 892
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dc8a952063a7b459f55fc6a1736346
+      internalID: -1327732097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 892
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ec18faef58a0d4eb157e10eed0faaf
+      internalID: -928551317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 860
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db18b328da5b4f4288370a8f8debd4c
+      internalID: -1381456685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 860
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446714699cb2ad94e97f85e93217c908
+      internalID: 1619213944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 860
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60df3a2ad56239844abcb99e5f362c39
+      internalID: -2122270014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 860
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3926894261c31044db5a99627b360765
+      internalID: -887612505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 860
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed48e095b7374f4a99e2d3d8591c3bd
+      internalID: 374729817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 828
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89206667223b468448bec0a25b9beef5
+      internalID: -917988885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 828
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b58e8aaeb132da42bb87cf919543903
+      internalID: -1783508520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 828
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59fc992ef1b26840a7d1efbdc0984b0
+      internalID: 2076843698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 828
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4377270b1d793654ea8f6363e9069929
+      internalID: -1913893299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 828
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e594c394536f62498be342c93ca0b0b
+      internalID: -27300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 796
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff4d603525a2bc49b0b31f28f529465
+      internalID: -1347151144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 796
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d767822e80a094a817dc801daf73e6
+      internalID: -902629721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 796
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea01078cc56ce34418737a794ffd7df2
+      internalID: -1646019885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 796
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47c9f790f5d767429e98a4187b9a650
+      internalID: -1153699821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 796
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d371947a22778342820781e9b5378d6
+      internalID: 1976760599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 764
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488b3b5e9703cdf42a5a7a23709a7f25
+      internalID: 981180744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 764
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d3a2b2798ccc349b0908e9ea78b814
+      internalID: 842480844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 764
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ad6e2e665d1d944919eac4e70a3187
+      internalID: -603645639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 764
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b1e388952270b4fb640cdcea201d1f
+      internalID: -78356169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 764
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd8a89acc13d2e49a4cc35021d7be06
+      internalID: -886629113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 764
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f5acb6b22d280478d3b1526809b360
+      internalID: 1762424112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 764
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7e42af3bf1d1e49be9a365a6b6af52
+      internalID: -149105826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 764
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f60f6588074ff4a906c009283b2010
+      internalID: -849532353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de179840bd3e9b4ebf1bff1eb61e328
+      internalID: 1894707637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 732
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5bbb14ac805cb4799baaa201a5d2f6
+      internalID: -2022669266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 732
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66e8518f85514b42ac6a5b8090bd6cc
+      internalID: -468156353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 732
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28e3ceb52ab46d428b7e9f60f4b269c
+      internalID: 1426467061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424c98d3e28ec124d8464ee87fe53554
+      internalID: 1516226884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 700
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ba9c5d60e3f8a4aa90b1f92de2cf84
+      internalID: 1458794582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 700
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36b1da7d036bd54ab6f42fcca45c7f4
+      internalID: -1904407616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 700
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e5ed68350391040bb3414a9004bc6c
+      internalID: -1589217735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 700
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9aede47e52973438ccb5cf4d028b4a
+      internalID: -542674085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 700
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bc27f35dacd9f41ab22b7be74cd750
+      internalID: 68396359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7ee57df7d7fe047b7f47347cced491
+      internalID: -860173942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e148755ed2b23499922928312be17b
+      internalID: -234487142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02619becba81a3747a24077be44e15e0
+      internalID: 1562070726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91279a919e10df94fbc8226773744e48
+      internalID: -659344624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 668
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfaceae7f13959449697a4a489a957c
+      internalID: 1502472661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a9ba4d286c3544788c08d599ba5ef5
+      internalID: -1116444667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 636
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7951ff8936e9fa94ebf6dd6824b6a432
+      internalID: -126550436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 636
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416e1ad1e07fac74fbc9236f7cb1965a
+      internalID: 44813406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 636
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd180307911ea545a94ff3086c74f36
+      internalID: 1139442642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 636
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf9e305a63b96c44a1d12f391955f2e
+      internalID: 501139309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8c92acb319cd5428d0192ca800a5a4
+      internalID: 289898093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 604
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd15cf673db77c94c87ea747e52a7bb0
+      internalID: 1713905998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 604
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235ba4b7340f0664b8e78b71e54d5094
+      internalID: -1957592200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 604
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb50b36216b0c6f40a458c6cf41d56fb
+      internalID: 1588317773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 604
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7dadcddaa3eba42b17395e1c8d0211
+      internalID: 400940790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97c895cac6c52e4ebd985596fe22a70
+      internalID: 1269247544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 572
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55999192cd7a9ad44b78318f9c70278d
+      internalID: 666625200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 572
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88a899244e49224383f3995ac96e442
+      internalID: 961867336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 572
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6699c9f7b5647e498099c74a2246ae7
+      internalID: 1050988035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 572
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e7681f3e40fa241a7e3a69fc61072f
+      internalID: 576102054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef7bc8a87253f547add42e21378ec11
+      internalID: 1746082165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f587cff17ddc8ae4e86d66cf33775a21
+      internalID: -15998271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce2b896a00b85f47991f229c128dec2
+      internalID: 1704265548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ae1032ddc4eb74891cb0005207dbf3
+      internalID: 1053438899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf2b29358c865a45af12b09ad29e054
+      internalID: 79844049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e67ecdb0a083041b7977a7072fc1bf
+      internalID: 65611185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 508
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4933d1a3a4367254b9a289e07da7b8d2
+      internalID: -443056802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 508
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2013f0ae5c4f5546ba0e0b4669dfc5c
+      internalID: 1252871941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 508
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6928705c1729abb4995b0a493dbc89a8
+      internalID: -1515147487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 508
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf393b4c06fdc54f8c7e46bda085a91
+      internalID: 863396344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 508
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfba28ababf3a794e91ed43cf704770e
+      internalID: -1668988358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 508
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa94a582af27a7e4abbb376c4c6bcf00
+      internalID: -1372328521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da4972935746ec47aad6f609a27f521
+      internalID: -1737588816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_96
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 476
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233204600f71c3d4b834ec2f1fb5f6a7
+      internalID: 730087956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 476
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b243458665d58b8498ef3a00bb0ca6b2
+      internalID: 1912290567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 476
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617b2dc51a8cb5441af8e9803c44e2ed
+      internalID: 159282345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 476
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ca44382812dd3428b4c0c19b996b2b
+      internalID: 139839730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 476
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cf55e293582a946875cda4d5786d9b
+      internalID: -1298065190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a188da78016eba9469f8bd18c66cc06f
+      internalID: 1167256880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 444
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df6e2cade15555418f6bd0483e9ec48
+      internalID: 283370730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 444
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a3a986121b34348bb0227e92007e2f
+      internalID: -2096562779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_104
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 444
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a292972eee016314587531fc9e41e9a8
+      internalID: -712417940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 444
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ab7046db4bfbc4f9bd674c7635763e
+      internalID: 1684721194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 444
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd109211a1d219c4ca2714c960677138
+      internalID: 177503427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594c7eb242d5d4640a6ddb98ce41a9ad
+      internalID: 985614897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 412
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c36f52960a1509478d6a9400e97a1ee
+      internalID: -1646115261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 412
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a66cf2e3d7435d418ff5fe923615ad5
+      internalID: 1589613620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 412
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5871f7bda15d4a4b87bc6e2e36f25ed
+      internalID: -1466155725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 412
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3529f5a3d9556ce488af99f043d65fea
+      internalID: -604090218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_112
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 412
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277a34e71ffc7b04b9c5175b24d1525b
+      internalID: -501979690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c56efd184e4b24fba7e7796d7de11b
+      internalID: -1712933940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 380
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b099c193b9e5f4cb20350c316f243d
+      internalID: 1390010180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 380
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0684193fee966d4d8be34e118f8c8da
+      internalID: -1310915531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 380
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b55ba0e770add14c9320e6d51902974
+      internalID: 97613459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_117
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 380
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e220bc806df8a534ead7ee838e28fe47
+      internalID: 892040894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209b1f50715ab4841b7bb37c5db2f1b7
+      internalID: 1645807213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_119
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59f78b79b7d1b34f87691f0145b3bc6
+      internalID: 633056013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dc5b961c551bf4eb629f0907e6baf0
+      internalID: -1176987344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b35dc7d9d080c248aa193bd7090c867
+      internalID: -1747738128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba1b972a979f6e4f98c6d4a7474b593
+      internalID: 119322181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a580ed0e4d6bff246b2051cf2b789147
+      internalID: 541130346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_124
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4b3fe13fbbadb48bba9139fc8992d3
+      internalID: -1051477021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_125
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ff21afbd5651e4090570178cc9b622
+      internalID: 599352282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624e1b352c7e4844d81843b1a8577f3f
+      internalID: -2040659977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_127
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2298999e673892a4b84670ca541dfacc
+      internalID: -593236434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_128
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f90d3946373a44ebd699ca454528a1
+      internalID: -2054577722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_129
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e031121af9bad4d4db3efb27ac58743a
+      internalID: 1347798722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed200e6fe02fcb43845463cb72cdbe9
+      internalID: 517144382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 284
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f153e972113dc40a9a12d765f8def1
+      internalID: 1534363743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 284
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95e6e669f8f8b144a4ea7137b476d43
+      internalID: -1460236615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 284
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b9c150363ac754daae48c168116e84
+      internalID: 130463591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 284
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58374ce6f48bed740850b576dce96801
+      internalID: 364412019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_135
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 284
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b49ceeb96a85f34a8eacc2c515e7e71
+      internalID: 1918996344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6741559266db98145bf040191e1ec193
+      internalID: -1941493560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09afa3491d9a1a841864df3aa2c01083
+      internalID: 974752566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b7aec487a558646b66448a3e8d1ae6
+      internalID: 565633665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06eda27b787ad04dae99b8ec9969ed6
+      internalID: -655630078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3705a083993da4cae3708ee669f089
+      internalID: 1561986012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47a198fe9ff21142b9ba34377195e55
+      internalID: 1759055416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd905dc5db15f7b4fbd104e23b9a2b00
+      internalID: -1070729690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_143
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1527c27e9918048a08e3ba18a1d9c6
+      internalID: 1241632739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_144
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc665b2ef39d47341a77c55766801b04
+      internalID: 1901557397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_145
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e6107269628884b88fb8553c4e24d0
+      internalID: -651968933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804210bde710e1f4b89e6e0de89c9f0f
+      internalID: 857955487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_147
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a29c561620905e4389b4e9c2e14fbb4
+      internalID: 1921978945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de046d0970594ec469d28a3aedc34c64
+      internalID: 1719976958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_149
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7152769b5aed29a468a6d2f602e5d655
+      internalID: -256938672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_150
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7226c78f20cf5140a1f7b80656f99a9
+      internalID: 1608527443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_151
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a042bbfc6f59b0946aecde65317cb9db
+      internalID: 1933942345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1a409ee79b2554ca03f8fb9f1a9d2f
+      internalID: 2034564125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_153
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3c483fdf88a1d4ea53eff376d885eb
+      internalID: -2014067803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_154
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67faafec098d1c0478c8e46fa6879fbb
+      internalID: 1146331447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577a387210a39144db674b32f13353cd
+      internalID: 6335030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a45695b7cf30b249944b3648259f564
+      internalID: -729098306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_157
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6843abceb90fd854cbd2af759a0eb577
+      internalID: -2046106464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca180843640e9964492a1c0064ccb65b
+      internalID: -670385496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_159
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6586d3f33fb60ca468624c38e84f65fe
+      internalID: 1315510669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_160
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fb9c78886de844a83325c9bb44d69e
+      internalID: 1845912936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_161
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbffb64bcfe44d4d81d37b652ba2625
+      internalID: 1048858697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784f9ee0bd0f7d543bf63e9cd282783b
+      internalID: 919830330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_163
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d293728c4517e8f4b91d7479ba442ccb
+      internalID: 409534929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_164
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58124afb2c253b4ead3b6fae643bae6
+      internalID: 702968865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_165
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46bae06ad47a46498c09fd5613cbab9
+      internalID: 46191534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_166
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943b801945825634a9e81efcb81dad5d
+      internalID: 1888749184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_167
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d1af0932a381d4dbafda6b056b7588
+      internalID: 821239548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_168
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8601d7a6e654b9c47bfc3d8c0e4e8457
+      internalID: 1188037605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb8a3bb157293641883555dc672021e
+      internalID: -1705394838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_170
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a27503c0828cf94aa152a239240212b
+      internalID: 395467954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_171
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a151c18960ce6f447a9d9ed42d041b52
+      internalID: -1600445739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_172
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65647452dd739c344991b7e4e1b89c81
+      internalID: -536909687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_173
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bb5a5de68795c429c96b5f602cdf5f
+      internalID: 1458618284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_174
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7220249c0fd21a54d8813f20ee4beb9a
+      internalID: -1807053324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478ca974ef16dee428019123b51fdb58
+      internalID: -235751989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a876a54bd769e449c2c654c3ac7c2e
+      internalID: -2009145991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c51e4b6bf0dee418b1344f2c01243b
+      internalID: -215447013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432e19817cd799540af39f96b7cc09d7
+      internalID: -2141153536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1d1605965855a46858b5663fdfd2f5
+      internalID: 1296980378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfe3975eeb8a9d439836a9f89d236c8
+      internalID: -1428637215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85531abc8238ad14eac9acc2a23b5f88
+      internalID: -1035943028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f31afb8d3f2744ba01f55edf86d739
+      internalID: 1282124670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a2b9311a0825b47a5b61eb7be2b1cd
+      internalID: 158414245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d4f263328b16d498ed56d19c28dfcd
+      internalID: -419786990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_185
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edb02198e01f134fb63a586a029cd1f
+      internalID: 1171978854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_186
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d285446629e87b4e8df9c06fad47c19
+      internalID: -1141934184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_187
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa02c5408439a349b35405c63f55bba
+      internalID: -1937982180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_188
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee991d01e0859b24ba40f9bb337809b8
+      internalID: -345632316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_189
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d89a6cc222e67459d656a4d5f68b48
+      internalID: 1158641553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b17e7408e8c6c344a6ac1a7b195f359
+      internalID: -278234446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset6 (1)_191
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74fd23955e129d48af9e4bd65e7c2e3
+      internalID: -430789288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PokemonTileset6 (1)_6: 555011309
+      PokemonTileset6 (1)_24: -2009950961
+      PokemonTileset6 (1)_169: -1705394838
+      PokemonTileset6 (1)_64: -234487142
+      PokemonTileset6 (1)_125: 599352282
+      PokemonTileset6 (1)_106: 177503427
+      PokemonTileset6 (1)_14: -1475711882
+      PokemonTileset6 (1)_25: 635004664
+      PokemonTileset6 (1)_136: -1941493560
+      PokemonTileset6 (1)_131: 1534363743
+      PokemonTileset6 (1)_42: -1646019885
+      PokemonTileset6 (1)_3: -1776718742
+      PokemonTileset6 (1)_97: 1912290567
+      PokemonTileset6 (1)_8: -754898219
+      PokemonTileset6 (1)_99: 139839730
+      PokemonTileset6 (1)_154: 1146331447
+      PokemonTileset6 (1)_127: -593236434
+      PokemonTileset6 (1)_26: -914660423
+      PokemonTileset6 (1)_128: -2054577722
+      PokemonTileset6 (1)_7: -534422792
+      PokemonTileset6 (1)_176: -2009145991
+      PokemonTileset6 (1)_79: 666625200
+      PokemonTileset6 (1)_77: 400940790
+      PokemonTileset6 (1)_45: 981180744
+      PokemonTileset6 (1)_138: 565633665
+      PokemonTileset6 (1)_76: 1588317773
+      PokemonTileset6 (1)_59: -1904407616
+      PokemonTileset6 (1)_10: -1571345048
+      PokemonTileset6 (1)_153: -2014067803
+      PokemonTileset6 (1)_173: 1458618284
+      PokemonTileset6 (1)_186: -1141934184
+      PokemonTileset6 (1)_101: 1167256880
+      PokemonTileset6 (1)_108: -1646115261
+      PokemonTileset6 (1)_15: 403913058
+      PokemonTileset6 (1)_41: -902629721
+      PokemonTileset6 (1)_36: -1783508520
+      PokemonTileset6 (1)_114: 1390010180
+      PokemonTileset6 (1)_78: 1269247544
+      PokemonTileset6 (1)_87: 79844049
+      PokemonTileset6 (1)_119: 633056013
+      PokemonTileset6 (1)_60: -1589217735
+      PokemonTileset6 (1)_51: -149105826
+      PokemonTileset6 (1)_66: -659344624
+      PokemonTileset6 (1)_20: 487987937
+      PokemonTileset6 (1)_92: 863396344
+      PokemonTileset6 (1)_142: -1070729690
+      PokemonTileset6 (1)_148: 1719976958
+      PokemonTileset6 (1)_94: -1372328521
+      PokemonTileset6 (1)_11: -144991128
+      PokemonTileset6 (1)_167: 821239548
+      PokemonTileset6 (1)_110: -1466155725
+      PokemonTileset6 (1)_151: 1933942345
+      PokemonTileset6 (1)_40: -1347151144
+      PokemonTileset6 (1)_129: 1347798722
+      PokemonTileset6 (1)_91: -1515147487
+      PokemonTileset6 (1)_161: 1048858697
+      PokemonTileset6 (1)_145: -651968933
+      PokemonTileset6 (1)_130: 517144382
+      PokemonTileset6 (1)_13: 1962487087
+      PokemonTileset6 (1)_5: 197003159
+      PokemonTileset6 (1)_166: 1888749184
+      PokemonTileset6 (1)_116: 97613459
+      PokemonTileset6 (1)_95: -1737588816
+      PokemonTileset6 (1)_75: -1957592200
+      PokemonTileset6 (1)_147: 1921978945
+      PokemonTileset6 (1)_104: -712417940
+      PokemonTileset6 (1)_17: -640889615
+      PokemonTileset6 (1)_70: 44813406
+      PokemonTileset6 (1)_84: -15998271
+      PokemonTileset6 (1)_158: -670385496
+      PokemonTileset6 (1)_121: -1747738128
+      PokemonTileset6 (1)_120: -1176987344
+      PokemonTileset6 (1)_112: -501979690
+      PokemonTileset6 (1)_68: -1116444667
+      PokemonTileset6 (1)_162: 919830330
+      PokemonTileset6 (1)_115: -1310915531
+      PokemonTileset6 (1)_177: -215447013
+      PokemonTileset6 (1)_111: -604090218
+      PokemonTileset6 (1)_117: 892040894
+      PokemonTileset6 (1)_109: 1589613620
+      PokemonTileset6 (1)_107: 985614897
+      PokemonTileset6 (1)_63: -860173942
+      PokemonTileset6 (1)_56: 1426467061
+      PokemonTileset6 (1)_179: 1296980378
+      PokemonTileset6 (1)_86: 1053438899
+      PokemonTileset6 (1)_74: 1713905998
+      PokemonTileset6 (1)_31: 1619213944
+      PokemonTileset6 (1)_163: 409534929
+      PokemonTileset6 (1)_62: 68396359
+      PokemonTileset6 (1)_103: -2096562779
+      PokemonTileset6 (1)_21: 1490548419
+      PokemonTileset6 (1)_139: -655630078
+      PokemonTileset6 (1)_96: 730087956
+      PokemonTileset6 (1)_171: -1600445739
+      PokemonTileset6 (1)_188: -345632316
+      PokemonTileset6 (1)_85: 1704265548
+      PokemonTileset6 (1)_50: 1762424112
+      PokemonTileset6 (1)_54: -2022669266
+      PokemonTileset6 (1)_71: 1139442642
+      PokemonTileset6 (1)_149: -256938672
+      PokemonTileset6 (1)_37: 2076843698
+      PokemonTileset6 (1)_126: -2040659977
+      PokemonTileset6 (1)_23: 1249434143
+      PokemonTileset6 (1)_160: 1845912936
+      PokemonTileset6 (1)_80: 961867336
+      PokemonTileset6 (1)_144: 1901557397
+      PokemonTileset6 (1)_55: -468156353
+      PokemonTileset6 (1)_140: 1561986012
+      PokemonTileset6 (1)_141: 1759055416
+      PokemonTileset6 (1)_122: 119322181
+      PokemonTileset6 (1)_88: 65611185
+      PokemonTileset6 (1)_30: -1381456685
+      PokemonTileset6 (1)_170: 395467954
+      PokemonTileset6 (1)_165: 46191534
+      PokemonTileset6 (1)_187: -1937982180
+      PokemonTileset6 (1)_33: -887612505
+      PokemonTileset6 (1)_22: 1396230100
+      PokemonTileset6 (1)_135: 1918996344
+      PokemonTileset6 (1)_146: 857955487
+      PokemonTileset6 (1)_113: -1712933940
+      PokemonTileset6 (1)_0: -1243604087
+      PokemonTileset6 (1)_155: 6335030
+      PokemonTileset6 (1)_65: 1562070726
+      PokemonTileset6 (1)_69: -126550436
+      PokemonTileset6 (1)_53: 1894707637
+      PokemonTileset6 (1)_152: 2034564125
+      PokemonTileset6 (1)_181: -1035943028
+      PokemonTileset6 (1)_124: -1051477021
+      PokemonTileset6 (1)_178: -2141153536
+      PokemonTileset6 (1)_81: 1050988035
+      PokemonTileset6 (1)_118: 1645807213
+      PokemonTileset6 (1)_9: 1104859039
+      PokemonTileset6 (1)_172: -536909687
+      PokemonTileset6 (1)_157: -2046106464
+      PokemonTileset6 (1)_28: -1327732097
+      PokemonTileset6 (1)_174: -1807053324
+      PokemonTileset6 (1)_168: 1188037605
+      PokemonTileset6 (1)_156: -729098306
+      PokemonTileset6 (1)_185: 1171978854
+      PokemonTileset6 (1)_32: -2122270014
+      PokemonTileset6 (1)_46: 842480844
+      PokemonTileset6 (1)_159: 1315510669
+      PokemonTileset6 (1)_134: 364412019
+      PokemonTileset6 (1)_190: -278234446
+      PokemonTileset6 (1)_12: 1775502599
+      PokemonTileset6 (1)_143: 1241632739
+      PokemonTileset6 (1)_48: -78356169
+      PokemonTileset6 (1)_72: 501139309
+      PokemonTileset6 (1)_123: 541130346
+      PokemonTileset6 (1)_35: -917988885
+      PokemonTileset6 (1)_182: 1282124670
+      PokemonTileset6 (1)_43: -1153699821
+      PokemonTileset6 (1)_49: -886629113
+      PokemonTileset6 (1)_58: 1458794582
+      PokemonTileset6 (1)_93: -1668988358
+      PokemonTileset6 (1)_180: -1428637215
+      PokemonTileset6 (1)_39: -27300374
+      PokemonTileset6 (1)_89: -443056802
+      PokemonTileset6 (1)_47: -603645639
+      PokemonTileset6 (1)_137: 974752566
+      PokemonTileset6 (1)_4: -1298010986
+      PokemonTileset6 (1)_83: 1746082165
+      PokemonTileset6 (1)_82: 576102054
+      PokemonTileset6 (1)_16: -1130372828
+      PokemonTileset6 (1)_189: 1158641553
+      PokemonTileset6 (1)_34: 374729817
+      PokemonTileset6 (1)_61: -542674085
+      PokemonTileset6 (1)_175: -235751989
+      PokemonTileset6 (1)_29: -928551317
+      PokemonTileset6 (1)_98: 159282345
+      PokemonTileset6 (1)_27: -2062497954
+      PokemonTileset6 (1)_1: -1189637675
+      PokemonTileset6 (1)_44: 1976760599
+      PokemonTileset6 (1)_90: 1252871941
+      PokemonTileset6 (1)_150: 1608527443
+      PokemonTileset6 (1)_164: 702968865
+      PokemonTileset6 (1)_18: -1616589791
+      PokemonTileset6 (1)_184: -419786990
+      PokemonTileset6 (1)_73: 289898093
+      PokemonTileset6 (1)_132: -1460236615
+      PokemonTileset6 (1)_133: 130463591
+      PokemonTileset6 (1)_57: 1516226884
+      PokemonTileset6 (1)_38: -1913893299
+      PokemonTileset6 (1)_105: 1684721194
+      PokemonTileset6 (1)_102: 283370730
+      PokemonTileset6 (1)_52: -849532353
+      PokemonTileset6 (1)_67: 1502472661
+      PokemonTileset6 (1)_100: -1298065190
+      PokemonTileset6 (1)_19: -757572360
+      PokemonTileset6 (1)_183: 158414245
+      PokemonTileset6 (1)_2: -1090403804
+      PokemonTileset6 (1)_191: -430789288
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

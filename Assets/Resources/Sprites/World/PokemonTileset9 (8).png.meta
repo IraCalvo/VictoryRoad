@@ -1,0 +1,6932 @@
+fileFormatVersion: 2
+guid: 0f6f3d678414e4d40b43ff97fdd35e72
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 31
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafd31f6b5a6be24fa896657a7e52a2f
+      internalID: 325810417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1eda993529ba6479638caac91474db
+      internalID: -995801527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218627e0ef3bdc8439ae80ebab1fc73d
+      internalID: -272688495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900635a50f7f67e4bbcac417aee233ef
+      internalID: 1947631832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d887903fb737d49a11e631060f50b9
+      internalID: -1198801392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c390d6e38cfb41341916009f266af17f
+      internalID: 887326659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f33101551c16c46b6a9453a8162a27
+      internalID: 1765252111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b9eb813c300544896a8f8c32daaff0
+      internalID: 2061744758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6bb91002d96a4468299a82beb00b13
+      internalID: 778382836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471dbfc552a3bff4e94a0142e272c571
+      internalID: -1042842855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770f3eedb38b8704cb6f817c840930f8
+      internalID: 911983508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3ab9be2502e0f4798db138692a5ba4
+      internalID: 776545891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03aa0a0d22ef994090baf967ff956e6
+      internalID: 1335675065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd94871e0c6d1964fbb6daf99ca1cc43
+      internalID: 162983221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2f898a5c27dc842b9731eb42cc4131
+      internalID: -1714237382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e8a3206b6a63440a812d235d5a5e0e
+      internalID: 395000464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c632998e18e697468cdc39280854225
+      internalID: -2111426315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c223d9f00b4864c83c72a4cd80cbea
+      internalID: 2022250211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2197c571e55f6ff4b923c4f76cae0447
+      internalID: -28659467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3545f25382ea18d4cab4c7a9f603fdb1
+      internalID: -1379800868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9a3cdb3c4bb3b4ea9bb7d07e7c6ad6
+      internalID: -15043157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7859d6c6275f9f847b1834c79573b055
+      internalID: 701371619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6129551d5245754e863533d84fc5b6e
+      internalID: -738810752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e03b0ef76b856645ba0ceed1930b57c
+      internalID: 1526336596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea36addeb97b43c46bf1a077987e33c2
+      internalID: -474160806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7db7ebf89e774468d1327eaa716be0
+      internalID: -458460618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5660015848951b049ab69d7e62bda14c
+      internalID: -1982992882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ba5c1bd6711004c9565b2e22bd0d95
+      internalID: 678203826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ece7f70f606494e8b1130a00fbd7eb
+      internalID: 1298276199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f8781b01b52b146918cc5f1405aef1
+      internalID: 1742074893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7757a77ecf6f94942bc99e7b86dc0751
+      internalID: 1632292365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459204fd7967e324489bed1f65cceed7
+      internalID: 1878192833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfbdf29a2666aa43a2d9da80fc035df
+      internalID: 124271049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6660d07838104ed4a814b97903c1f40b
+      internalID: 735440471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c7035b1932cec47852967e2fe0429f
+      internalID: 2016476669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623759733146d484991956a6bc355aa0
+      internalID: -454843893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992a9b7393fc2c54ba692ca7af49fdff
+      internalID: 1994881217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e6b416567e11a46a9e17b551f07d18
+      internalID: 1772213948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73700956de29d204cb893e7962108f3a
+      internalID: 607849868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee23295411b6414e96395ff1396f590
+      internalID: -1703846963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c311f44d2b7413049ac3d2baf830cbba
+      internalID: -1928069684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1529487ae1dce9f4fad2fb6e3a14fb97
+      internalID: 1240978251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515f99730d323de45ac06dfc3cc1bc64
+      internalID: -528021621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2e3c81cb777e1409b919db80244e4e
+      internalID: 495462948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf42a4d9faa9df8439b0c7fa22a8274d
+      internalID: -1133044411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ee29867cd3a974e979ca2cf7e4e7e4
+      internalID: -371790592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e9fda8b5ed5ec42adae2ee394df3ad
+      internalID: -94968862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1078
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcb4ee8cab35304c8cd0e175bd09720
+      internalID: -79737346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1078
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1919e84ca9f96414d86355f67cfce544
+      internalID: 1339335001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1078
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14eff947dd8ef2c4ca47fbc063dcbbc6
+      internalID: -1466539142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1078
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf40831ca32cb14a84b11c792577939
+      internalID: 1310936019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1078
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a32f57f78336b409e882d77f126d0c
+      internalID: -1883400962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1078
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995ebe15d5193924fa76f096b6f5a8ab
+      internalID: 1077273152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1078
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48751012d2f8ecc41960016f5957ab8b
+      internalID: 661576273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1078
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb23a583126cc841a3f958af2557963
+      internalID: 1221896494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1046
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a318b348d83cfbd4fb967a000feba8cb
+      internalID: 1751478060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1046
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25339bb852bc4c34d84791aa39a0911c
+      internalID: -89712155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1046
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a05528bd6399fa429302c4d5d4ba1d8
+      internalID: -495295766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1046
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f43b14b3e1ab14ab78ccca609f493c
+      internalID: 203801213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1046
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07597162c40d80f4396608b683d1f091
+      internalID: 1756158059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1046
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13251d4edd2303f47ba7e15af1a105e2
+      internalID: 1772616628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1046
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4eb0c1c011a6c4ea5aabcea621f745
+      internalID: -2008874453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1014
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1142143b7ef714ebdf122445efe100
+      internalID: 45611531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1014
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2635e9a6a9809494a9236f791d9c1bed
+      internalID: -1810152221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1014
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2ddaa7e9db1324fba605f9c286bb85
+      internalID: -355644418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1014
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd159992af0c9a949bf0e1f9941a34eb
+      internalID: -1251274510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1014
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b3f31b1ee40e0489cafdf325cf0cd1
+      internalID: 1601215243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1014
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4303c3f46d47e3445b29f22a5f09964a
+      internalID: 1450492422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1014
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f47dee34911e742b81144e96f00ac3
+      internalID: -108312439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1014
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9135f222b02df44e9a2306884377511
+      internalID: 1903819834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 982
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d289f54fb00bf8643824be97e8ea079c
+      internalID: -1247585397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 982
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d543a992f59671e489d9accd6dd3e594
+      internalID: 1141367272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 982
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eddf3e277136fb4b920f44fc2b0ef35
+      internalID: 345326337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 982
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470140adbdaa1c5478d834bc8e586f3f
+      internalID: 1493273164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 982
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9de2512c0aa58647afc4d08e8031308
+      internalID: -152827862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 982
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d885d08e3816cd4fad4f1baba9adb25
+      internalID: -30160892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 982
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbbb89675aea804db6def79629a70de
+      internalID: 103867438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 982
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9361f14ade4ce7845bff7c7610d526e4
+      internalID: 1927842360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ac2f37da463444bbef09663735eab4
+      internalID: -18204069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 950
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356068833096ce46bda45e5185b6fb3
+      internalID: -1459750406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 950
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69e29042b6a2bb45856616914076f6d
+      internalID: -850531178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 950
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c99d6f855f88d846b2cf36577502c75
+      internalID: 2061957499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 950
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac07020de92899e4cb95f343aa13c1e1
+      internalID: 367716858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 950
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68639ba817ef4db4b8b32c7bf7a2b957
+      internalID: 1590410023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 950
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570bc4e0f8a9bda49860ed98b7d10d13
+      internalID: -1424129192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_85
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 950
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aec050c68c0f2a438f98d41e02f17da
+      internalID: 1538805810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b900352394e5dd4683ea36679f4281c
+      internalID: -1474039653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 918
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6304b9681807a05439b0428aa97fcfe8
+      internalID: -542552262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 918
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0263b2179cdf75541abdf44e352d1620
+      internalID: 1503677623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 918
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcddc6e5e8ac694d905bd73f684f8f7
+      internalID: 1396137238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 918
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a09cd0c1a6f910408e6ef86ccfc2af4
+      internalID: 1479284069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 918
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17d2c52767d4fa48a904686baf9fa18
+      internalID: 712935037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 918
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc126298944bf03478168f4b19855271
+      internalID: 483423396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_93
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 918
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad631eb55cbaea429862a2703b27d5f
+      internalID: -1762553995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 886
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d6b21e990570145bd056649c8ff66b
+      internalID: 675355728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_95
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 886
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae88278ceec5e946a5078ba600ce93f
+      internalID: -2008873460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 886
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea64f09830879646b2c19f630781423
+      internalID: 506166615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 886
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cd442e6339d0e46be13bae52fd0d0f
+      internalID: -892389733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 886
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2243363416231ba479ce9c1f02d308da
+      internalID: -7885752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 886
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2516ee4012ab9498dacd86b703c85b
+      internalID: 1642749732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 886
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a68a51a249e1d442ba632076c48b98c
+      internalID: -1260531472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_101
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 886
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795e7bf192207da4f80c354a7464534c
+      internalID: 1608579414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 854
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2079e3b8c86934f9e61efafd65d9ff
+      internalID: -1130570111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 854
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9e876f685cd4c43b25c65686ba3619
+      internalID: 684984731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 854
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab71cee378ce0a4d9f9eb079b4c35c9
+      internalID: 245243740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 854
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d18e3982f3f2ca4ca68e280e2feafb5
+      internalID: -993309867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 854
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb8c627df5036d4098712562b7eab26
+      internalID: -1569395919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_107
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 854
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab0d6e2110c9e44d87acefade5a2f96
+      internalID: -1287790755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 854
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055dcfb62ee429e40b5aec0c9f63ec04
+      internalID: -2086849461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 854
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68555a48b2040c24990ec734e392b100
+      internalID: 1897876838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed3cdafc3a0b5246a51a78c0cce9c7f
+      internalID: 89791729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 822
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5c2cfe345d21b418b20fa895136ac9
+      internalID: -1011991107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 822
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c383ea59bec4ebb469272933f0907c9a
+      internalID: -1284655034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 822
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e359fad7e101b034eaadf8a1c41b3039
+      internalID: -199177550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 822
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea64ba57834c9d549932a3243bc74670
+      internalID: -1146198928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 822
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3779d7314d668e24abce7a8ad0318caa
+      internalID: -202247564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 822
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d92bb069b836243966e00e2c7595d9
+      internalID: 495850188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 822
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eafd4e402d6796458e56cbc14e1486a
+      internalID: -1712813866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 790
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72a2946d2e68d6469376ae8c7c93402
+      internalID: -385477383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_119
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 790
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c4518337cab38488138e868d5bb51f
+      internalID: 796893724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 790
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaf7942fb8860844a6f86dc56a49def
+      internalID: -642666315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 790
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcd4512c42c52142ae8bd2094200d2e
+      internalID: -1987068281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 790
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b455e8af768178947861328b56534164
+      internalID: 739082150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_123
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 790
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd56013ab3cd8f64097fc0482fe0d418
+      internalID: 745529862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 790
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87832bdb33470be4990999a5ade1c560
+      internalID: -980341404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_125
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 790
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa9dcb44ad198f438775fadb0d2b963
+      internalID: 1557372211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 758
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde2e7ecd80939643a84bc9478bd67c0
+      internalID: -1811521999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 758
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe28ebfa11781bf42bb928ed2954f2f1
+      internalID: -2037993270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 758
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61434dd84516f342a2d98f393013b26
+      internalID: -12582630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 758
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816cac040bba75a45aec1eb23ea58bd9
+      internalID: 960278922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 758
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1093bd347abf049845a633de0f4e62
+      internalID: -1666568281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 758
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f12f39e621f8a40a31ee048a5a523f
+      internalID: -1207608622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 758
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b551283306f1244fb30d8e319de2048
+      internalID: -1463243559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 758
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ed2340a2c0bc9439a6545438537107
+      internalID: 938805261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384703ffdd8fe8a48b8e5be1c7c9032d
+      internalID: 324157950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_135
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 726
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08e0e9af80dfc8468f46c8de0db9a5d
+      internalID: -222048192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 726
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abcc4940c666c141bc6145d48901a98
+      internalID: 151740134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_137
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 726
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b6b80b81f003743a907f1a35d2bd8f
+      internalID: -1519707793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 726
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52267259d296534483bdaf8784fe2d8
+      internalID: 1343083909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_139
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 726
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c624821d4719943b562bade80b9a84
+      internalID: 1105234379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 726
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340ebd42012f65643b4e5d873aae5c1b
+      internalID: 1716554747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_141
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 726
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aed7e96807471c469c932c9c785167c
+      internalID: -1643268755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 694
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f490d00512b8914f8884d2ccfbba658
+      internalID: 941031670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_143
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 694
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f17f5950ed36946bb0c48330758bb4
+      internalID: 1919535373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_144
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 694
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240e7215de5fe77489b01811d8cde4b7
+      internalID: 2098411834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_145
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 694
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd60190523606e42acaac485f274d16
+      internalID: -395538903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 694
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd8ccb36cb221f49a2ea8549f0a82cb
+      internalID: 342838532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_147
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 694
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba715d8243c7454996246557d0d592f
+      internalID: 1113330430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 694
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638afee65c016e542aa38ecbe0a353e1
+      internalID: 1548668407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 694
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bec0850890af046acfe0a3e3ab84c6
+      internalID: 1870750952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 662
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efd4c5bf49b54c439385b9a1ed4f65a
+      internalID: 1905692753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_151
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 662
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2692313e468d8eb4eb7b8620ae52a2ee
+      internalID: 1573525170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 662
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf54d4d5b34520f48b3721345eb50108
+      internalID: 349162866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 662
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0afcb8b451d75a4e91666525c18b7ed
+      internalID: 722954184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 662
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4106561b0ab16c42b1267edf1e4dca3
+      internalID: -691497545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_155
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 662
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4534057d6ce0d2e4d9d59da9e21b25e5
+      internalID: -225820939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 662
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47962781b1bbdb34dad76dd6551bec08
+      internalID: 1255643667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_157
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 662
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2fd2247c96d6d4fb709680a503df9d
+      internalID: 594750424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505498beb25ca4040ab84cbcfafe8bf9
+      internalID: -787959307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_159
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 630
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbcdd12ef80397409c4d05ddecbce49
+      internalID: -1218439922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 630
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789a64ecb27839a4bbf21fc789653126
+      internalID: 359273623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 630
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d6adb00bf2045439258eda65b3fe5d
+      internalID: -911351457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 630
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7afbd5393a6be845839b189d5566db1
+      internalID: 838108473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_163
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 630
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d0323d40cacb24f8913aab3347259b
+      internalID: -320078478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 630
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92246699e0affdd469644959744a070d
+      internalID: 1163301106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_165
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 630
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edbc7c8da3b1e2479f3dcba8703da43
+      internalID: -1976672183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb3bc8c844fbc644885fc42448af907
+      internalID: -1045643581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_167
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 598
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1e4b89c668b944cac2cd6c2364acf0
+      internalID: 1234721793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_168
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 598
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f486fe35e9c5043bbc464d5756e5e5
+      internalID: -644718784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_169
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 598
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d834826250a1194e869d99233d5f1e9
+      internalID: -1397868499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 598
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86c3c2fa2e72c042bf7e433e50dd1d1
+      internalID: -895010792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_171
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 598
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17e8e271342be240b8aa3f118c26791
+      internalID: -1643450934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_172
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 598
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea84952a7c07d0441b92a0257b799687
+      internalID: 1167450187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_173
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 598
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba278b2240c6cb945b008bcc4cfadbd2
+      internalID: -1533069674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 566
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7913f754f9e794d9871ac8f6cdbb76
+      internalID: -292276443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 566
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61228b5517831324ab2d38e867dec303
+      internalID: -850937293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_176
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 566
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ec2b8cba1fc5843807f2562547c6a6
+      internalID: -1526832566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 566
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39938c7d1817e240bab228a03ff3a41
+      internalID: -1977208761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 566
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba97e6bfbcfc2554799065c7e28e0e6e
+      internalID: -647923831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_179
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 566
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4114db8c7d8b2147befd071277847fa
+      internalID: 1383406681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 566
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184a644fd308c6c4f820f61c0085e5b5
+      internalID: -417564813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_181
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 566
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8885e7017f287a4880539df0e9003a4
+      internalID: 1556701933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ed1903ddd8f6841a0ed48c50e4eb8c
+      internalID: 352839396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_183
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 534
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93532c1251e41ba4e8a56725979829df
+      internalID: 277267295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 534
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33b326258dc5954d936399b23dd6cc2
+      internalID: -1997567857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_185
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 534
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa483449d99e472479552ea3c944b0d0
+      internalID: 1138872737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 534
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de7a32cc38b01d4886c1111968dcfe2
+      internalID: -1657445171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_187
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 534
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c9f2e8b6569c443af7f2dbebb5511a
+      internalID: -1061126808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_188
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 534
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ade813eaadb6fb45aa7dc8dd109e290
+      internalID: 1966660001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_189
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 534
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f839a4eaaf2874b9a645f9a703a599
+      internalID: 518742603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86951675d53196248ab747691afaf438
+      internalID: -148482620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_191
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 502
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf4e5e9a4f87254081d4dde3293f015
+      internalID: -1013540843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_192
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 502
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fa42276d55b46409a0b89f2af86a1b
+      internalID: 1665391626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_193
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 502
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0ab86ffdc64ed48af39d302c9d7c5b
+      internalID: 153079228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 502
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c777218712a6db4dbae0c53944b1031
+      internalID: -549741569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_195
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 502
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f67aed5de2347f47be63b8545ef8081
+      internalID: -1924019115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 502
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96d31bd31a60114b8f269769ca85e0d
+      internalID: -1214514233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_197
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 502
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194cf827254a24a4aa60cdbffbaa5d90
+      internalID: 1949735786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6978d22e984b6054083ecb20c64e1f22
+      internalID: -1757163581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_199
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18432e9105154664d9e73f0dbf3380eb
+      internalID: -1836262737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_200
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3947d2de88ffb6c4c83331c193d47b68
+      internalID: -158766390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_201
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5734d50af512a4fb8be88b3e62fd33
+      internalID: 1630147867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_202
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2146836cc076cb48bf2546006c809bf
+      internalID: -1363557240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_203
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e7abf29c72d5d4cb2ec980ee500e6d
+      internalID: -1061626362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_204
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea86f5f025c915d438d46c400f62e3c5
+      internalID: 1505793979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_205
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efd7221a713e22479b00c4625007f36
+      internalID: 1849991635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_206
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85765105fe0dac45b58a7f9f1d1a4c8
+      internalID: 1525035536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_207
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc9a1036b99a1343b40d7039735847d
+      internalID: 854585645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_208
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91930a3843e86924baba926a8893afa8
+      internalID: 2051777174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_209
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8f4f48837e2a34aacf08902bb07634
+      internalID: -830117974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_210
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3153f4da97dddf4b9b4d2e47831b760
+      internalID: 2086316614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_211
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a221af6ca379bf42abdf4be858d6320
+      internalID: -126686057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b58e39c030c03c4589b9ecdb439ca25
+      internalID: 47566735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_213
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f02c43c4faad0408185c3cfb702acf
+      internalID: -714581953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_214
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d12da4c12a87d46b73a8e18ab06bf1
+      internalID: -1258215327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_215
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414e9f2b6cda38c4486a96d15a270cf1
+      internalID: 1034217315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_216
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544b67b42c5507c42a6aba5ece43f0a4
+      internalID: -1011356819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_217
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1ccf118613ac34c930b00ad0ccefe2
+      internalID: 859308046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_218
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ee1c87c0344494a8a7f95bb1a81218
+      internalID: -1396658574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_219
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b78cd1e8ac17904b9dc3de441fdb737
+      internalID: -1817745195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_220
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc8ae0f20702d543a22c98783cdd395
+      internalID: 927082144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_221
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a202e3045635c5146a9dde8189a73141
+      internalID: 1868802177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_222
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315afe71576e5304eb792ce5e0d76ca2
+      internalID: -743192742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_223
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9088290e5ccc6841b190bc2ea6505e6
+      internalID: 1836183783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_224
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6aedb392f17fa4fafb1aa7fb5d4471
+      internalID: 807633738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_225
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8523ed2fb85d0c043a072522b3ff220f
+      internalID: -511654433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_226
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426d38b7317837a44a20e0a4ccd4cdda
+      internalID: -425262977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_227
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d62ff1bd6cc5c44b1fe7695ee64878
+      internalID: -1134615905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_228
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f235c2f5f08b24a9b145c7fb1c6ec8
+      internalID: 1389534414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_229
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2877de659981b674e95382e42a93cfe8
+      internalID: -67596089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_230
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc73794999949b4aa9745f76b1c1e51
+      internalID: -1917918176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_231
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8242d57364efcd2409a77335454a51a4
+      internalID: 428077178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc6e4f47f9958843895bd370ee0e69e
+      internalID: -240260437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_233
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7441f6c3dc89f4eb1e30fb91ef067a
+      internalID: -2123754785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_234
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b06bb4aad9804f438555a4c5f088899
+      internalID: 262113303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_235
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83bbad05e50ca9419bfe200ef31d593
+      internalID: 473132250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_236
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb60acbcb6f50d74b904f498a15eb82a
+      internalID: -996967395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_237
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edae51fa4e86d6741b70310a621f9bc1
+      internalID: -1071292247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_238
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63789fb637ced4449a2ff8e1ac77bf4
+      internalID: -246328992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_239
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a04616d3b9ecb4290e770325ea5abe
+      internalID: -1135375097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49b620ad2aab3c4ea5d9d4dd434bfeb
+      internalID: -1849441783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0af50be803947e4e9d88dae7a5c670f
+      internalID: 1315132543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172e044a2fed76a45b4ce8a90639431d
+      internalID: -1773760162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b836b78000ed2fd4a85d226e27389b95
+      internalID: -1422992825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11ea728ed9278f47bd65f843bb83ad2
+      internalID: -1814005092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_245
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84662969c11292b4dbb03c96a082a1e3
+      internalID: -931832497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_246
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3705d325e8803214c8fc08628bce2950
+      internalID: 1228581453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_247
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56540bc1f0bfec44cb4f61cd96f5d411
+      internalID: 1138948107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6091dd0de721b48849017c05d2382d
+      internalID: -515722576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_249
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bace50e148cde469544585e9aa7096
+      internalID: 1217316373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_250
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23af8a50dc6301243b376408b1c6d86a
+      internalID: -594052973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_251
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c98e3e02592d44390f0cfe3a4203d7
+      internalID: 919459493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_252
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32e7d7a041d55c46bd5f78c58dfa1fa
+      internalID: -1564093884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_253
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb6eca4421092e4d849a66921cb37bc
+      internalID: 2071724599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_254
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c407cc49f1b8fbe40b3fff530a4e9e22
+      internalID: -1696940853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_255
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee9506e1c1cea149ac3fc78d4b73a93
+      internalID: -290173093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_256
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef109474e0557fe41957c66dda00c41f
+      internalID: 403704232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_257
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0551e329257dd4083bac711245451b
+      internalID: 592913725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_258
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0f39ad806ae434ea4e24e8ce628504
+      internalID: -1622001682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_259
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358fa918d532087429b27fa636755c64
+      internalID: -1786457901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_260
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d6443bf55ec914cbfda009c84f56d9
+      internalID: 1788760538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_261
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefc808b7e2f0ce41b4be37636b7598d
+      internalID: -213738782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_262
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666f27ac31816c14fb1aa48d233694d4
+      internalID: -989580580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_263
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8589727d95ce25449869ce458752c11f
+      internalID: -600078804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_264
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cca628a914976408db331c84fbc195
+      internalID: 835212050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_265
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc83133a2ab269646b7d66ca47c77646
+      internalID: -1487956124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_266
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1378af09a4abe34486ccc690db3101f
+      internalID: -2063397525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_267
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c835a339e4f50a43a4cd05d0206c101
+      internalID: 826662645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_268
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86da9a24440750d4aa37959352dc5991
+      internalID: 1138537371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_269
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edcd45dff587ae4a9b19bdec65b2e06
+      internalID: 925427825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_270
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ef8a12346ed08458e8b64be12db929
+      internalID: -112589957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_271
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d151315b9c84e54e82368c68c65d8de
+      internalID: 466337695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_272
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ce7555a1a987e49a34e9dee4866c9a
+      internalID: 145669728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_273
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497ed80a53a76c749a018733a2606dc4
+      internalID: 2043964142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_274
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a5530b2b5934f48b3fe0012f739400
+      internalID: 737681008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_275
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50b470ad408a1b41b518b2ab845c4c0
+      internalID: 544293312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_276
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6560e594b5a45409d405cf4f388afa
+      internalID: 1881300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_277
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105278c534b15c3499e5332f43fa2b88
+      internalID: -1959703657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_278
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c538b2376ec5949bb7c9b48ba74fe6
+      internalID: 986003564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_279
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6bece09ceeed849b75a88feb3b20d9
+      internalID: -1971510025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_280
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a4ae8005108154786716d667f61b99
+      internalID: 1051181620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_281
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51fd52bb5da27d47aac01140bcd91ce
+      internalID: 1276270938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_282
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcba7df0afeb294e80cce9dc63b0eb6
+      internalID: 797434343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_283
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb563902f0d5d34cad5388987fd5832
+      internalID: -1542581719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_284
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67400bee4df35c46a8e901cd223051f
+      internalID: 1667620607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_285
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099063b1d91fddc41ae6c771e774183d
+      internalID: 1264769238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_286
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b8a942dce3198429eac0146d6907a2
+      internalID: -500173661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_287
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e8c9b7ea6ab084ca8a9800112e52ff
+      internalID: 2035276185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_288
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaff5a58b9d647f488fa69a54c020c55
+      internalID: 54463309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_289
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d269c6f0b439a419882c45d603807e
+      internalID: 1498606079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_290
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b28c8584108254396eecd3d3a7fa97
+      internalID: 175648287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_291
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0d281e53b7271469138c8aae31b714
+      internalID: 957351954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_292
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78c49ea2e7816244a450234a49e849b
+      internalID: -75869585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_293
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e2ffb477bdaa743b16ae57e2b60083
+      internalID: 1928650064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_294
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8084c50121cb56544a1e50b6289f9d41
+      internalID: 183969052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_295
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276ff08f656d39648903f6be629a0ec1
+      internalID: -554487358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_296
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64e3029ad5d1454cbad614f8ee11e58
+      internalID: -197513150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_297
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad08538261edbf49a9428b5059cdb4b
+      internalID: 907741427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_298
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5965fbd26bb057c4f85a01674729420a
+      internalID: -650805616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_299
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7109b132ed40b2489cf6204598b4d4e
+      internalID: 1487540649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_300
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc48408c8667a2c4ca66e6d6bd151406
+      internalID: 403170096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_301
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6318037ad12604488075336afb5571
+      internalID: 142119159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_302
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d8c67300557aa42809788b12bf7fd9
+      internalID: -321483173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_303
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d578f8e876bfc94468acafe290e0fb15
+      internalID: 410491977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_304
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69184c69fc46fe4397c07531b9dae36
+      internalID: -796664388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_305
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e971e22999d39ed4dba4e620ea5e2dfe
+      internalID: 933776888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_306
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecb56952796b2d4fb35902a8600730c
+      internalID: 1894188288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_307
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0098b3f5761427445a6a23840c322b0d
+      internalID: -1987220410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonTileset9 (8)_308
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d4acf2e1e82ba498c7bdfdcdbfecbe
+      internalID: -994044247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PokemonTileset9 (8)_13: 162983221
+      PokemonTileset9 (8)_95: -2008873460
+      PokemonTileset9 (8)_9: -1042842855
+      PokemonTileset9 (8)_3: 1947631832
+      PokemonTileset9 (8)_83: 1590410023
+      PokemonTileset9 (8)_190: -148482620
+      PokemonTileset9 (8)_144: 2098411834
+      PokemonTileset9 (8)_249: 1217316373
+      PokemonTileset9 (8)_127: -2037993270
+      PokemonTileset9 (8)_30: 1632292365
+      PokemonTileset9 (8)_0: 325810417
+      PokemonTileset9 (8)_74: -152827862
+      PokemonTileset9 (8)_19: -1379800868
+      PokemonTileset9 (8)_166: -1045643581
+      PokemonTileset9 (8)_128: -12582630
+      PokemonTileset9 (8)_50: 1310936019
+      PokemonTileset9 (8)_194: -549741569
+      PokemonTileset9 (8)_96: 506166615
+      PokemonTileset9 (8)_276: 1881300406
+      PokemonTileset9 (8)_191: -1013540843
+      PokemonTileset9 (8)_248: -515722576
+      PokemonTileset9 (8)_222: -743192742
+      PokemonTileset9 (8)_5: 887326659
+      PokemonTileset9 (8)_67: 1450492422
+      PokemonTileset9 (8)_305: 933776888
+      PokemonTileset9 (8)_211: -126686057
+      PokemonTileset9 (8)_224: 807633738
+      PokemonTileset9 (8)_155: -225820939
+      PokemonTileset9 (8)_204: 1505793979
+      PokemonTileset9 (8)_108: -2086849461
+      PokemonTileset9 (8)_116: 495850188
+      PokemonTileset9 (8)_137: -1519707793
+      PokemonTileset9 (8)_250: -594052973
+      PokemonTileset9 (8)_186: -1657445171
+      PokemonTileset9 (8)_239: -1135375097
+      PokemonTileset9 (8)_255: -290173093
+      PokemonTileset9 (8)_161: -911351457
+      PokemonTileset9 (8)_193: 153079228
+      PokemonTileset9 (8)_261: -213738782
+      PokemonTileset9 (8)_197: 1949735786
+      PokemonTileset9 (8)_170: -895010792
+      PokemonTileset9 (8)_141: -1643268755
+      PokemonTileset9 (8)_216: -1011356819
+      PokemonTileset9 (8)_245: -931832497
+      PokemonTileset9 (8)_188: 1966660001
+      PokemonTileset9 (8)_294: 183969052
+      PokemonTileset9 (8)_237: -1071292247
+      PokemonTileset9 (8)_241: 1315132543
+      PokemonTileset9 (8)_24: -474160806
+      PokemonTileset9 (8)_91: 712935037
+      PokemonTileset9 (8)_103: 684984731
+      PokemonTileset9 (8)_207: 854585645
+      PokemonTileset9 (8)_15: 395000464
+      PokemonTileset9 (8)_180: -417564813
+      PokemonTileset9 (8)_89: 1396137238
+      PokemonTileset9 (8)_97: -892389733
+      PokemonTileset9 (8)_247: 1138948107
+      PokemonTileset9 (8)_139: 1105234379
+      PokemonTileset9 (8)_112: -1284655034
+      PokemonTileset9 (8)_77: 1927842360
+      PokemonTileset9 (8)_126: -1811521999
+      PokemonTileset9 (8)_59: 1756158059
+      PokemonTileset9 (8)_181: 1556701933
+      PokemonTileset9 (8)_208: 2051777174
+      PokemonTileset9 (8)_220: 927082144
+      PokemonTileset9 (8)_225: -511654433
+      PokemonTileset9 (8)_52: 1077273152
+      PokemonTileset9 (8)_218: -1396658574
+      PokemonTileset9 (8)_277: -1959703657
+      PokemonTileset9 (8)_129: 960278922
+      PokemonTileset9 (8)_146: 342838532
+      PokemonTileset9 (8)_273: 2043964142
+      PokemonTileset9 (8)_71: 1141367272
+      PokemonTileset9 (8)_214: -1258215327
+      PokemonTileset9 (8)_60: 1772616628
+      PokemonTileset9 (8)_307: -1987220410
+      PokemonTileset9 (8)_115: -202247564
+      PokemonTileset9 (8)_263: -600078804
+      PokemonTileset9 (8)_80: -850531178
+      PokemonTileset9 (8)_133: 938805261
+      PokemonTileset9 (8)_23: 1526336596
+      PokemonTileset9 (8)_63: -1810152221
+      PokemonTileset9 (8)_45: -371790592
+      PokemonTileset9 (8)_185: 1138872737
+      PokemonTileset9 (8)_293: 1928650064
+      PokemonTileset9 (8)_32: 124271049
+      PokemonTileset9 (8)_16: -2111426315
+      PokemonTileset9 (8)_262: -989580580
+      PokemonTileset9 (8)_281: 1276270938
+      PokemonTileset9 (8)_200: -158766390
+      PokemonTileset9 (8)_90: 1479284069
+      PokemonTileset9 (8)_43: 495462948
+      PokemonTileset9 (8)_135: -222048192
+      PokemonTileset9 (8)_242: -1773760162
+      PokemonTileset9 (8)_58: 203801213
+      PokemonTileset9 (8)_17: 2022250211
+      PokemonTileset9 (8)_252: -1564093884
+      PokemonTileset9 (8)_292: -75869585
+      PokemonTileset9 (8)_205: 1849991635
+      PokemonTileset9 (8)_4: -1198801392
+      PokemonTileset9 (8)_150: 1905692753
+      PokemonTileset9 (8)_40: -1928069684
+      PokemonTileset9 (8)_130: -1666568281
+      PokemonTileset9 (8)_25: -458460618
+      PokemonTileset9 (8)_254: -1696940853
+      PokemonTileset9 (8)_70: -1247585397
+      PokemonTileset9 (8)_14: -1714237382
+      PokemonTileset9 (8)_202: -1363557240
+      PokemonTileset9 (8)_36: 1994881217
+      PokemonTileset9 (8)_257: 592913725
+      PokemonTileset9 (8)_275: 544293312
+      PokemonTileset9 (8)_260: 1788760538
+      PokemonTileset9 (8)_253: 2071724599
+      PokemonTileset9 (8)_31: 1878192833
+      PokemonTileset9 (8)_69: 1903819834
+      PokemonTileset9 (8)_2: -272688495
+      PokemonTileset9 (8)_53: 661576273
+      PokemonTileset9 (8)_175: -850937293
+      PokemonTileset9 (8)_66: 1601215243
+      PokemonTileset9 (8)_54: 1221896494
+      PokemonTileset9 (8)_217: 859308046
+      PokemonTileset9 (8)_196: -1214514233
+      PokemonTileset9 (8)_44: -1133044411
+      PokemonTileset9 (8)_302: -321483173
+      PokemonTileset9 (8)_182: 352839396
+      PokemonTileset9 (8)_123: 745529862
+      PokemonTileset9 (8)_267: 826662645
+      PokemonTileset9 (8)_264: 835212050
+      PokemonTileset9 (8)_33: 735440471
+      PokemonTileset9 (8)_121: -1987068281
+      PokemonTileset9 (8)_120: -642666315
+      PokemonTileset9 (8)_92: 483423396
+      PokemonTileset9 (8)_102: -1130570111
+      PokemonTileset9 (8)_228: 1389534414
+      PokemonTileset9 (8)_162: 838108473
+      PokemonTileset9 (8)_298: -650805616
+      PokemonTileset9 (8)_215: 1034217315
+      PokemonTileset9 (8)_243: -1422992825
+      PokemonTileset9 (8)_55: 1751478060
+      PokemonTileset9 (8)_184: -1997567857
+      PokemonTileset9 (8)_172: 1167450187
+      PokemonTileset9 (8)_136: 151740134
+      PokemonTileset9 (8)_167: 1234721793
+      PokemonTileset9 (8)_20: -15043157
+      PokemonTileset9 (8)_104: 245243740
+      PokemonTileset9 (8)_230: -1917918176
+      PokemonTileset9 (8)_79: -1459750406
+      PokemonTileset9 (8)_151: 1573525170
+      PokemonTileset9 (8)_72: 345326337
+      PokemonTileset9 (8)_138: 1343083909
+      PokemonTileset9 (8)_81: 2061957499
+      PokemonTileset9 (8)_169: -1397868499
+      PokemonTileset9 (8)_1: -995801527
+      PokemonTileset9 (8)_258: -1622001682
+      PokemonTileset9 (8)_7: 2061744758
+      PokemonTileset9 (8)_154: -691497545
+      PokemonTileset9 (8)_183: 277267295
+      PokemonTileset9 (8)_28: 1298276199
+      PokemonTileset9 (8)_163: -320078478
+      PokemonTileset9 (8)_291: 957351954
+      PokemonTileset9 (8)_256: 403704232
+      PokemonTileset9 (8)_229: -67596089
+      PokemonTileset9 (8)_76: 103867438
+      PokemonTileset9 (8)_134: 324157950
+      PokemonTileset9 (8)_174: -292276443
+      PokemonTileset9 (8)_105: -993309867
+      PokemonTileset9 (8)_271: 466337695
+      PokemonTileset9 (8)_99: 1642749732
+      PokemonTileset9 (8)_106: -1569395919
+      PokemonTileset9 (8)_189: 518742603
+      PokemonTileset9 (8)_206: 1525035536
+      PokemonTileset9 (8)_233: -2123754785
+      PokemonTileset9 (8)_246: 1228581453
+      PokemonTileset9 (8)_199: -1836262737
+      PokemonTileset9 (8)_173: -1533069674
+      PokemonTileset9 (8)_57: -495295766
+      PokemonTileset9 (8)_61: -2008874453
+      PokemonTileset9 (8)_300: 403170096
+      PokemonTileset9 (8)_192: 1665391626
+      PokemonTileset9 (8)_75: -30160892
+      PokemonTileset9 (8)_251: 919459493
+      PokemonTileset9 (8)_268: 1138537371
+      PokemonTileset9 (8)_288: 54463309
+      PokemonTileset9 (8)_56: -89712155
+      PokemonTileset9 (8)_131: -1207608622
+      PokemonTileset9 (8)_100: -1260531472
+      PokemonTileset9 (8)_187: -1061126808
+      PokemonTileset9 (8)_111: -1011991107
+      PokemonTileset9 (8)_168: -644718784
+      PokemonTileset9 (8)_289: 1498606079
+      PokemonTileset9 (8)_6: 1765252111
+      PokemonTileset9 (8)_304: -796664388
+      PokemonTileset9 (8)_153: 722954184
+      PokemonTileset9 (8)_219: -1817745195
+      PokemonTileset9 (8)_280: 1051181620
+      PokemonTileset9 (8)_279: -1971510025
+      PokemonTileset9 (8)_41: 1240978251
+      PokemonTileset9 (8)_301: 142119159
+      PokemonTileset9 (8)_226: -425262977
+      PokemonTileset9 (8)_62: 45611531
+      PokemonTileset9 (8)_88: 1503677623
+      PokemonTileset9 (8)_51: -1883400962
+      PokemonTileset9 (8)_269: 925427825
+      PokemonTileset9 (8)_68: -108312439
+      PokemonTileset9 (8)_178: -647923831
+      PokemonTileset9 (8)_306: 1894188288
+      PokemonTileset9 (8)_265: -1487956124
+      PokemonTileset9 (8)_65: -1251274510
+      PokemonTileset9 (8)_177: -1977208761
+      PokemonTileset9 (8)_234: 262113303
+      PokemonTileset9 (8)_117: -1712813866
+      PokemonTileset9 (8)_101: 1608579414
+      PokemonTileset9 (8)_93: -1762553995
+      PokemonTileset9 (8)_124: -980341404
+      PokemonTileset9 (8)_282: 797434343
+      PokemonTileset9 (8)_284: 1667620607
+      PokemonTileset9 (8)_198: -1757163581
+      PokemonTileset9 (8)_125: 1557372211
+      PokemonTileset9 (8)_84: -1424129192
+      PokemonTileset9 (8)_272: 145669728
+      PokemonTileset9 (8)_285: 1264769238
+      PokemonTileset9 (8)_210: 2086316614
+      PokemonTileset9 (8)_286: -500173661
+      PokemonTileset9 (8)_10: 911983508
+      PokemonTileset9 (8)_109: 1897876838
+      PokemonTileset9 (8)_238: -246328992
+      PokemonTileset9 (8)_94: 675355728
+      PokemonTileset9 (8)_114: -1146198928
+      PokemonTileset9 (8)_171: -1643450934
+      PokemonTileset9 (8)_201: 1630147867
+      PokemonTileset9 (8)_227: -1134615905
+      PokemonTileset9 (8)_299: 1487540649
+      PokemonTileset9 (8)_266: -2063397525
+      PokemonTileset9 (8)_26: -1982992882
+      PokemonTileset9 (8)_240: -1849441783
+      PokemonTileset9 (8)_287: 2035276185
+      PokemonTileset9 (8)_34: 2016476669
+      PokemonTileset9 (8)_160: 359273623
+      PokemonTileset9 (8)_29: 1742074893
+      PokemonTileset9 (8)_119: 796893724
+      PokemonTileset9 (8)_73: 1493273164
+      PokemonTileset9 (8)_42: -528021621
+      PokemonTileset9 (8)_39: -1703846963
+      PokemonTileset9 (8)_308: -994044247
+      PokemonTileset9 (8)_179: 1383406681
+      PokemonTileset9 (8)_143: 1919535373
+      PokemonTileset9 (8)_303: 410491977
+      PokemonTileset9 (8)_110: 89791729
+      PokemonTileset9 (8)_85: 1538805810
+      PokemonTileset9 (8)_157: 594750424
+      PokemonTileset9 (8)_140: 1716554747
+      PokemonTileset9 (8)_209: -830117974
+      PokemonTileset9 (8)_122: 739082150
+      PokemonTileset9 (8)_48: 1339335001
+      PokemonTileset9 (8)_278: 986003564
+      PokemonTileset9 (8)_21: 701371619
+      PokemonTileset9 (8)_236: -996967395
+      PokemonTileset9 (8)_35: -454843893
+      PokemonTileset9 (8)_38: 607849868
+      PokemonTileset9 (8)_86: -1474039653
+      PokemonTileset9 (8)_11: 776545891
+      PokemonTileset9 (8)_22: -738810752
+      PokemonTileset9 (8)_8: 778382836
+      PokemonTileset9 (8)_148: 1548668407
+      PokemonTileset9 (8)_176: -1526832566
+      PokemonTileset9 (8)_12: 1335675065
+      PokemonTileset9 (8)_37: 1772213948
+      PokemonTileset9 (8)_147: 1113330430
+      PokemonTileset9 (8)_223: 1836183783
+      PokemonTileset9 (8)_46: -94968862
+      PokemonTileset9 (8)_212: 47566735
+      PokemonTileset9 (8)_221: 1868802177
+      PokemonTileset9 (8)_195: -1924019115
+      PokemonTileset9 (8)_259: -1786457901
+      PokemonTileset9 (8)_296: -197513150
+      PokemonTileset9 (8)_165: -1976672183
+      PokemonTileset9 (8)_164: 1163301106
+      PokemonTileset9 (8)_27: 678203826
+      PokemonTileset9 (8)_113: -199177550
+      PokemonTileset9 (8)_82: 367716858
+      PokemonTileset9 (8)_270: -112589957
+      PokemonTileset9 (8)_118: -385477383
+      PokemonTileset9 (8)_142: 941031670
+      PokemonTileset9 (8)_149: 1870750952
+      PokemonTileset9 (8)_274: 737681008
+      PokemonTileset9 (8)_98: -7885752
+      PokemonTileset9 (8)_49: -1466539142
+      PokemonTileset9 (8)_64: -355644418
+      PokemonTileset9 (8)_244: -1814005092
+      PokemonTileset9 (8)_132: -1463243559
+      PokemonTileset9 (8)_107: -1287790755
+      PokemonTileset9 (8)_47: -79737346
+      PokemonTileset9 (8)_232: -240260437
+      PokemonTileset9 (8)_213: -714581953
+      PokemonTileset9 (8)_295: -554487358
+      PokemonTileset9 (8)_78: -18204069
+      PokemonTileset9 (8)_145: -395538903
+      PokemonTileset9 (8)_18: -28659467
+      PokemonTileset9 (8)_283: -1542581719
+      PokemonTileset9 (8)_152: 349162866
+      PokemonTileset9 (8)_231: 428077178
+      PokemonTileset9 (8)_290: 175648287
+      PokemonTileset9 (8)_87: -542552262
+      PokemonTileset9 (8)_156: 1255643667
+      PokemonTileset9 (8)_158: -787959307
+      PokemonTileset9 (8)_159: -1218439922
+      PokemonTileset9 (8)_203: -1061626362
+      PokemonTileset9 (8)_297: 907741427
+      PokemonTileset9 (8)_235: 473132250
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

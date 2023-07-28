@@ -8,6 +8,6 @@ public class DialogNPC : MonoBehaviour
 
     public void InteractedWith()
     {
-        Debug.Log(dialogToSay);
+       DialogManager.instance.SetDialog(dialogToSay);
     }
 }

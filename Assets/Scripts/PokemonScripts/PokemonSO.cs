@@ -69,4 +69,13 @@ public class PokemonSO : ScriptableObject
     public float pokemonBuyRate;
     public List<PokemonEggGroup> eggGroup;
     public AudioClip pokemonCrySFX;
+
+    [Header("Pokemon Sprites")]
+    public Sprite backSprite;
+    public Sprite opposingSprite;
+    public Sprite shinyBackSprite;
+    public Sprite shinyOpposingSprite;
+    //public Sprite megaBackSprite;
+    //public Sprite megaOpposingSprite;
+    //public Sprite
 }

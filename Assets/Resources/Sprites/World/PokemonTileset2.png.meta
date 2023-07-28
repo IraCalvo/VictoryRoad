@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 31
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -7154,6 +7154,7 @@ TextureImporter:
       PokemonTileset2_130: 2059215422
       PokemonTileset2_81: 2135953929
       PokemonTileset2_46: -244709079
+      PokemonTileset2_316: 273521005
       PokemonTileset2_157: -628742730
       PokemonTileset2_276: -380962944
       PokemonTileset2_312: -2144002548
@@ -7171,7 +7172,6 @@ TextureImporter:
       PokemonTileset2_315: -716241014
       PokemonTileset2_177: 1147521651
       PokemonTileset2_48: 1515105124
-      PokemonTileset2_316: 273521005
       PokemonTileset2_95: 495887376
       PokemonTileset2_30: -1612236502
       PokemonTileset2_18: -330213698

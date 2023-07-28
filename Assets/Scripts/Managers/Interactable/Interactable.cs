@@ -17,8 +17,7 @@ public class Interactable : MonoBehaviour
     {
         if (otherCollider.gameObject.tag == "Player")
         {
-            Debug.Log("Playe detected");
-            Player player = otherCollider.gameObject.GetComponent<Player>();
+            PlayerControls player = otherCollider.gameObject.GetComponent<PlayerControls>();
             player.isInInteractRange = true;
             player.interactable = this;
         }
@@ -28,7 +27,7 @@ public class Interactable : MonoBehaviour
     {
         if (otherCollider.gameObject.tag == "Player")
         {
-            Player player = otherCollider.gameObject.GetComponent<Player>();
+            PlayerControls player = otherCollider.gameObject.GetComponent<PlayerControls>();
             player.isInInteractRange = false;
             player.interactable = null;
         }

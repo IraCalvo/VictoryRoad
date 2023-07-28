@@ -17,4 +17,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TestGeneration3.unity
     guid: 88e16d0b51bc26f4c9e87c25f77d5124
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/Market.unity
+    guid: 31aa5d24bfa13a54987e4c97f406a992
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: e07254d08184cfd4c910886fca35ea32, type: 2}
