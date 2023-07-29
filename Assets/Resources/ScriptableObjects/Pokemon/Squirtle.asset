@@ -13,17 +13,16 @@ MonoBehaviour:
   m_Name: Squirtle
   m_EditorClassIdentifier: 
   pokemonName: Squirtle
-  pokemonObject: {fileID: 0}
   pokedexNumber: 0
   pokemonLevel: 0
   pokemonEvolutions: []
   pokemonEvolutionMethod: 0
-  HP: 0
-  attack: 0
-  defense: 0
-  specialAttack: 0
-  specialDefense: 0
-  speed: 0
+  baseHP: 0
+  baseAttack: 0
+  baseDefense: 0
+  baseSpecialAttack: 0
+  baseSpecialDefense: 0
+  baseSpeed: 0
   type1: 0
   type2: 0
   totalMoveList: []
@@ -31,12 +30,12 @@ MonoBehaviour:
   eggMoveList: []
   levelUp: 
   levelUpMoves: []
-  adjustedHP: 0
-  adjustedAttack: 0
-  adjustedDefense: 0
-  adjustedSpecialAttack: 0
-  adjustedSpecialDefense: 0
-  adjustedSpeed: 0
+  baseAdjustedHP: 0
+  baseAdjustedAttack: 0
+  baseAdjustedDefense: 0
+  baseAdjustedSpecialAttack: 0
+  baseAdjustedSpecialDefense: 0
+  baseAdjustedSpeed: 0
   adjustedType1: 0
   adjustedType2: 0
   adjustedTotalMoveList: []
@@ -53,3 +52,7 @@ MonoBehaviour:
   pokemonBuyRate: 0
   eggGroup: 
   pokemonCrySFX: {fileID: 0}
+  backSprite: {fileID: 21300000, guid: 8399b0f3bc0780649ae450d4d7c9f3ab, type: 3}
+  opposingSprite: {fileID: 21300000, guid: 4ddc1dfb030e37a46bd796d898e3fb52, type: 3}
+  shinyBackSprite: {fileID: 0}
+  shinyOpposingSprite: {fileID: 0}

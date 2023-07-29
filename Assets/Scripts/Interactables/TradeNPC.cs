@@ -6,8 +6,8 @@ using UnityEngine.Rendering;
 
 public class TradeNPC : MonoBehaviour
 {
-    public PokemonBase pokemonToTrade;
-    public PokemonBase pokemonNPCWants;
+    public GameObject pokemonToTrade;
+    public GameObject pokemonNPCWants;
     Player player;
 
     [Header("NPC Dialogs")]
@@ -24,8 +24,8 @@ public class TradeNPC : MonoBehaviour
         //dialog to UI system
         Debug.Log(NPCInitialDialog);
 
-        List<PokemonBase> playerPokemonTeamCopy = new List<PokemonBase>(player.playerPokemonTeam);
-        foreach (PokemonBase pokemon in player.playerPokemonTeam)
+        List<GameObject> playerPokemonTeamCopy = new List<GameObject>(player.playerPokemonTeam);
+        foreach (GameObject pokemon in player.playerPokemonTeam)
         {
             if(pokemon == pokemonNPCWants)
             {

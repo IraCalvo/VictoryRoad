@@ -1,12 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 [CreateAssetMenu(fileName = "Pokemon", menuName = "Create Pokemon")]
 public class PokemonSO : ScriptableObject
 {
     public string pokemonName;
-    public GameObject pokemonObject;
+    //public GameObject pokemonObject;
     public int pokedexNumber;
     public int pokemonLevel;
     public List<PokemonSO> pokemonEvolutions;

@@ -19,7 +19,7 @@ public class Room : MonoBehaviour
         List<RoomDoor> validRoomExits = new List<RoomDoor>();
         foreach(RoomDoor roomDoor in roomDoors)
         {
-            if (SceneManagerData.Instance.CheckExitType(roomDoor.Exit))
+            if (GenerationManager.Instance.CheckExitType(roomDoor.Exit))
             {
                 validRoomExits.Add(roomDoor);
             }

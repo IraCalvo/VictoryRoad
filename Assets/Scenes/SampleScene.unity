@@ -617,7 +617,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerTeamSize: 6
   playerPokemonTeam:
-  - {fileID: 1887807610081489769, guid: 9e849a1dc4445174aa941661e25fba83, type: 3}
+  - {fileID: 2833079192287297806, guid: 9e849a1dc4445174aa941661e25fba83, type: 3}
   PokeDollar: 0
   PokeDiamond: 0
   inventoryManager: {fileID: 376183151}
@@ -2462,8 +2462,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c964378dda6ff5141bcd86197ce8ee24, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pokemonEncounters: []
-  battleChance: 0.5
+  pokemonEncounters:
+  - {fileID: 2833079192287297806, guid: 9e849a1dc4445174aa941661e25fba83, type: 3}
+  - {fileID: 1445584540286042817, guid: a034645e207d1164ea6903341b2bb0b7, type: 3}
+  encounterRates:
+  - 0.1
+  - 0.9
+  battleChance: 0.03
 --- !u!19719996 &700160049
 TilemapCollider2D:
   m_ObjectHideFlags: 0
@@ -13630,8 +13635,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5da23a872e6dc6d4191593a26ccc66d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pokemonToTrade: {fileID: 2984891485653151910, guid: a034645e207d1164ea6903341b2bb0b7, type: 3}
-  pokemonNPCWants: {fileID: 1887807610081489769, guid: 9e849a1dc4445174aa941661e25fba83, type: 3}
+  pokemonToTrade: {fileID: 0}
+  pokemonNPCWants: {fileID: 0}
   NPCInitialDialog: 
   NPCIfPlayerHasPokemonDialog: 
   NPCIfPlayerAcceptsTradeDialog: 
@@ -13770,6 +13775,7 @@ GameObject:
   - component: {fileID: 1219249998}
   - component: {fileID: 1219249997}
   - component: {fileID: 1219250001}
+  - component: {fileID: 1219250002}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -13875,6 +13881,20 @@ MonoBehaviour:
   dialog: {fileID: 1142856748}
   dialogBox: {fileID: 1858933215}
   currentlyTypingDialog: 0
+--- !u!114 &1219250002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1219249995}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed0fbac0a698f3a478cc4f8f3a3f05cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerPokemon: {fileID: 0}
+  opposingPokemon: {fileID: 0}
 --- !u!1 &1240925222
 GameObject:
   m_ObjectHideFlags: 0
@@ -14343,7 +14363,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1686346546}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eb738d983f6538c40a716c6fb0bc5c8d, type: 3}
+  m_Script: {fileID: 11500000, guid: cb7fa6055900ba04c8b6a5cebbabf3f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   marketPlace: {fileID: 0}

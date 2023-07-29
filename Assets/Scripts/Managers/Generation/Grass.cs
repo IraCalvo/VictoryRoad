@@ -1,12 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.Tilemaps;
 
 public class Grass : MonoBehaviour
 {
     Collider2D grassCollider;
-    public GameObject[] pokemonEncounters;
+    public List<GameObject> pokemonEncounters;
+    public List<float> encounterRates;
     public float battleChance;
 
 
@@ -17,15 +19,39 @@ public class Grass : MonoBehaviour
 
     public void CheckIfBattle()
     {
-        Debug.Log("Called");
         if (Random.value < battleChance)
         {
-            StartBattle();
+            Debug.Log("Called");
+            GameObject pokemon = GetPokemonEncountered();
+            StartBattle(pokemon);
         }
     }
 
-    void StartBattle()
+    public GameObject GetPokemonEncountered()
     {
-        Debug.Log("Battle Started");
+        List<GameObject> localPokemonEncounters = new List<GameObject>();
+        int index = 0;
+        while (index < pokemonEncounters.Count)
+        {
+            int amountOfPokemon = (int) (encounterRates[index] * 100);
+            for (int p = 0; p < amountOfPokemon; p++)
+            {
+                localPokemonEncounters.Add(pokemonEncounters[index]);
+            }
+            index++;
+        }
+        int randomPokemonIndex = Random.Range(0, localPokemonEncounters.Count);
+
+        return localPokemonEncounters[randomPokemonIndex];
     }
+    void StartBattle(GameObject pokemonEncountered)
+    {
+        Debug.Log(pokemonEncountered);
+        Debug.Log(pokemonEncountered.GetComponent<PokemonBase>().pokemonData.baseHP);
+
+        SceneManager.LoadScene("BattleScene");
+        BattleDataHolder.instance.UpdateBattleData(Player.instance.playerPokemonTeam[0], pokemonEncountered);
+    }
+
+    //TODO: Level Fluctuations
 }

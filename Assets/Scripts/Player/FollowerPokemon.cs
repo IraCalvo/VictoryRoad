@@ -26,6 +26,7 @@ public class FollowerPokemon : MonoBehaviour
 
     private void Start()
     {
+        playerParty = Player.instance;
         GetPokemonFirstInParty();
     }
 
@@ -38,7 +39,7 @@ public class FollowerPokemon : MonoBehaviour
     {
         if(playerParty.playerPokemonTeam.Count > 0)
         {
-            pokemonWalkingAnimation = playerParty.playerPokemonTeam[0].pokemonWalkingAnimation;
+            pokemonWalkingAnimation = playerParty.playerPokemonTeam[0].GetComponent<PokemonBase>().pokemonWalkingAnimation;
             followerAnimator.runtimeAnimatorController = pokemonWalkingAnimation.runtimeAnimatorController;
             
         }

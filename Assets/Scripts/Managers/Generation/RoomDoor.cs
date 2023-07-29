@@ -25,7 +25,7 @@ public class RoomDoor : MonoBehaviour
         {
             //TODO: pop up that asks the player if theyre sure
             //GoToNextRoom();
-            SceneManagerData.Instance.LoadRoom(Entrance);
+            GenerationManager.Instance.LoadRoom(Entrance);
         }
     }
 
