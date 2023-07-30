@@ -55,6 +55,26 @@ PrefabInstance:
       propertyPath: pokemonData
       value: 
       objectReference: {fileID: 11400000, guid: ab969c5f99629c743bda3798996918ea, type: 2}
+    - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: pokemonCurrentBattleSpeed
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: pokemonCurrentMoves.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: pokemonCurrentMoves.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 63dba5431f2facb44af5b1f6609eb601, type: 2}
+    - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: pokemonCurrentMoves.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: fe2a221cb269cf84481345d867d3328b, type: 2}
+    - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: pokemonCurrentMoves.Array.data[2]
+      value: 
+      objectReference: {fileID: 11400000, guid: ad03098112e0ce647b91eff87a7de741, type: 2}
     - target: {fileID: 8721544495372267280, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
       propertyPath: m_Name
       value: Pikachu

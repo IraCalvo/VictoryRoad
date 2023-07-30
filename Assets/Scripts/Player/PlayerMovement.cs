@@ -40,7 +40,10 @@ public class PlayerMovement : MonoBehaviour
 
     void OnMove(InputValue value)
     {
-        moveInput = value.Get<Vector2>();
+        if (playerCanMove)
+        {
+            moveInput = value.Get<Vector2>();
+        }
     }
 
     void MovePlayer()

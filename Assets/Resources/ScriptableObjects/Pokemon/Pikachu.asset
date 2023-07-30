@@ -23,7 +23,7 @@ MonoBehaviour:
   baseSpecialAttack: 0
   baseSpecialDefense: 0
   baseSpeed: 0
-  type1: 0
+  type1: 5
   type2: 0
   totalMoveList: []
   tmMoveList: []

@@ -25,4 +25,14 @@ public class BattleDataHolder : MonoBehaviour
         instance.opposingPokemon = opposingPokemon;
         OnUpdateBattleData?.Invoke(this, EventArgs.Empty);
     }
+
+    public PokemonBase GetPlayerPokemonBase()
+    {
+        return playerPokemon.GetComponent<PokemonBase>();
+    }
+
+    public PokemonBase GetOpposingPokemonBase()
+    {
+        return opposingPokemon.GetComponent<PokemonBase>();
+    }
 }

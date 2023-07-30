@@ -61,12 +61,40 @@ PrefabInstance:
       objectReference: {fileID: 11400000, guid: 2043d04c8626a174b83b3ef4852a3229, type: 2}
     - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
       propertyPath: pokemonLevel
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: pokemonSpeed
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: pokemonCurrentCurrentHP
+      value: 1000
       objectReference: {fileID: 0}
     - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
       propertyPath: pokemonWalkingAnimation
       value: 
       objectReference: {fileID: 5591684771010963993}
+    - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: pokemonCurrentBattleSpeed
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: pokemonCurrentMoves.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: pokemonCurrentMoves.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 63dba5431f2facb44af5b1f6609eb601, type: 2}
+    - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: pokemonCurrentMoves.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: 50002628da77f79489259141f40621c8, type: 2}
+    - target: {fileID: 4930015549759888759, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
+      propertyPath: pokemonCurrentMoves.Array.data[2]
+      value: 
+      objectReference: {fileID: 11400000, guid: fe2a221cb269cf84481345d867d3328b, type: 2}
     - target: {fileID: 5457649435922156151, guid: dc39a5f3a5c9ab943b3fd68f1f6cc9ca, type: 3}
       propertyPath: m_Size.x
       value: 2

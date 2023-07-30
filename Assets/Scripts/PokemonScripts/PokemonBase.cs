@@ -45,6 +45,9 @@ public class PokemonBase : MonoBehaviour, ISerializationCallbackReceiver
     public float pokemonCurrentBattleSpecialDefense;
     public float pokemonCurrentBattleSpeed;
 
+    [Header("Moves")]
+    public List<PokemonMove> pokemonCurrentMoves;
+
     public void OnBeforeSerialize()
     {
         //throw new NotImplementedException();
