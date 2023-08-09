@@ -9,7 +9,6 @@ public class PlayerControls : MonoBehaviour
     public Interactable interactable;
     public bool isInInteractRange;
     PlayerMovement playerMovement;
-    public GameObject UIMenu;
 
     private void Start()
     {
@@ -25,17 +24,17 @@ public class PlayerControls : MonoBehaviour
 
     void OnStart(InputValue value)
     {
-        if (UIMenu.gameObject.activeInHierarchy)
+        if (MenuOptionManager.Instance.UIMenu.gameObject.activeInHierarchy)
         {
             playerMovement.playerCanMove = true;
-            UIMenu.gameObject.SetActive(false);
+            MenuOptionManager.Instance.UIMenu.gameObject.SetActive(false);
             MenuOptionManager.Instance.Hide();
         }
         else
         {
             playerMovement.playerCanMove = false;
             Debug.Log(playerMovement.playerCanMove);
-            UIMenu.gameObject.SetActive(true);
+            MenuOptionManager.Instance.UIMenu.gameObject.SetActive(true);
             MenuOptionManager.Instance.Show();
 
         }

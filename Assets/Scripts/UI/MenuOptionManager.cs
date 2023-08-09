@@ -94,11 +94,11 @@ public class MenuOptionManager : MonoBehaviour
 
     public void Show()
     {
-        gameObject.SetActive(true);
+        UIMenu.SetActive(true);
     }
 
     public void Hide()
     {
-        gameObject.SetActive(false);
+        UIMenu.SetActive(false);
     }
 }

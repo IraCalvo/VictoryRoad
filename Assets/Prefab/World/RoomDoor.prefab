@@ -79,12 +79,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 679df85ea41cdc34b9d1596514a1e1d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  potentialRooms:
-  - {fileID: 102900000, guid: 878cc5c0ebe7c7c4481e25470f31438d, type: 3}
-  - {fileID: 102900000, guid: a68e8bf7013fbb34481bf2c3c1b81363, type: 3}
-  - {fileID: 102900000, guid: 88e16d0b51bc26f4c9e87c25f77d5124, type: 3}
-  Exit: 0
+  potentialRooms: []
   Entrance: 0
+  Exit: 0
   spawnPosition: {fileID: 1013385864114423679}
 --- !u!114 &-2525413564652810425
 MonoBehaviour:

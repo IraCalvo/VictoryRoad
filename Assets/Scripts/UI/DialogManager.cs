@@ -14,6 +14,7 @@ public class DialogManager : MonoBehaviour
     public bool currentlyTypingDialog;
     private string dialogToType;
     private float textSpeed = 0.05f;
+    bool textDone = false;
 
     private void Awake()
     {
@@ -35,22 +36,32 @@ public class DialogManager : MonoBehaviour
 
     public bool SetDialog(string textToDialog)
     {
-        if (currentlyTypingDialog)
+        if (textDone == false)
         {
-            dialog.text = dialogToType;
-            StopAllCoroutines();
-            currentlyTypingDialog = false;
-            return false;
+            if (currentlyTypingDialog)
+            {
+                dialog.text = dialogToType;
+                StopAllCoroutines();
+                currentlyTypingDialog = false;
+                return false;
+            }
+            else
+            {
+                dialog.text = null;
+                dialog.text = textToDialog;
+                dialogToType = textToDialog;
+                dialogBox.gameObject.SetActive(true);
+                typingDialog = StartCoroutine(typeDialog(dialog.text));
+                return true;
+            }
         }
         else
         {
-            dialog.text = null;
-            dialog.text = textToDialog;
-            dialogToType = textToDialog;
-            dialogBox.gameObject.SetActive(true);
-            typingDialog = StartCoroutine(typeDialog(dialog.text));
+            dialogBox.gameObject.SetActive(false);
+            PlayerMovement.instance.playerCanMove = true;
             return true;
         }
+
     }
 
     IEnumerator typeDialog(string sentence)
@@ -63,5 +74,6 @@ public class DialogManager : MonoBehaviour
             yield return new WaitForSeconds(textSpeed);
         }
         currentlyTypingDialog = false;
+        textDone = true;
     }
 }

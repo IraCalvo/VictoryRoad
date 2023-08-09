@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UIElements;
 
 public class GenerationManager : MonoBehaviour
 {
@@ -88,6 +89,10 @@ public class GenerationManager : MonoBehaviour
         {
             return rightCaveExits;
         }
+        else if (entranceType == DirectionType.CaveDown)
+        {
+            return downCaveExits;
+        }
 
         // Default Case
         return new List<string>();
@@ -118,6 +123,12 @@ public class GenerationManager : MonoBehaviour
     public static List<string> rightCaveExits = new List<string>
     {
         "SampleScene",
+    };
+
+    //Player enters scene from downwards so enters new scene from a down cave
+    public static List<string> downCaveExits = new List<string>
+    {
+        "TestGeneration1",
     };
 }
 
